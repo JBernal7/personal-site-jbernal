@@ -6,7 +6,7 @@ type: landing
 
 sections:
 
-  - block: about.avatar
+  - block: v1/about  #v1/about #about.avatar
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
