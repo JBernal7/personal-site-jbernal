@@ -8,7 +8,7 @@ last_name: Bernal Borrego
 
 # Status emoji
 status:
-  icon: 🐢
+  icon: 🦥
 
 # Is this the primary user of the site?
 superuser: true
@@ -69,9 +69,13 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/JBernal7
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+    display:
+      header: true
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-2800-7733
@@ -89,5 +93,5 @@ email: ''
 highlight_name: true
 ---
 
-Jessica Bernal Borrego is a biologist specializing in geomatics and spatial modeling from the University of Córdoba, with a solid background in law applied to the environment and territorial planning acquired through the Faculty of Law of the University of Malaga. Her latest academic works include the projects “Human-wildlife conflict in the Limpopo National Park. An approach through habitat suitability modeling” and “Hydrological risks and planning in the province of Malaga”, the latter awarded in the Terra Málaga research awards 2022. Likewise, throughout his professional career, she has acquired extensive experience in the analysis and evaluation of environmental impact, having assessed more than 30 construction projects for the General Directorate of Quality and Environmental Evaluation of the Ministry for the Ecological Transition and Demographic Challenge of Spain (MITERD), including the spatial analysis and preparation of environmental impact statements for activities related to the energy sector, linear infrastructures, and soil contamination.
+Jessica Bernal is a biologist specializing in geomatics and spatial modeling from the University of Córdoba, with a solid background in law applied to the environment and territorial planning acquired through the Faculty of Law of the University of Malaga. Her latest academic works include the projects “Human-wildlife conflict in the Limpopo National Park. An approach through habitat suitability modeling” and “Hydrological risks and planning in the province of Malaga”, the latter awarded in the Terra Málaga research awards 2022. Likewise, throughout her professional career, she has acquired extensive experience in the analysis and evaluation of environmental impact, having assessed more than 30 construction projects for the General Directorate of Quality and Environmental Evaluation of the Ministry for the Ecological Transition and Demographic Challenge of Spain (MITERD), including the spatial analysis and preparation of environmental impact statements for activities related to the energy sector, linear infrastructures, and soil contamination. 
 {style="text-align: justify;"}
