@@ -6,17 +6,14 @@ type: landing
 
 sections:
 
-  - block: v1/about  #v1/about #about.avatar
+  - block: about.avatar
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-      design:
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["200px", "0", "200px", "0"]
+     
   - block: features
     content:
       title: Skills
