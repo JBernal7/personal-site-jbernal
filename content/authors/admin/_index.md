@@ -18,10 +18,10 @@ role: Biologist | Geomatics and Spatial Modelling Specialist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Cordoba
+  - name: University of Córdoba
     url: https://www.uco.es/
   
-  - name: University of Malaga
+  - name: University of Málaga
     url: https://www.uma.es/
     
   - name: Hub-Terra Research and Technology
