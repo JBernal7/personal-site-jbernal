@@ -41,13 +41,13 @@ interests:
 education:
   courses:
     - course: MSc in Geomatics, Remote Sensing and Spatial Models Applied to Forest Management
-      institution: University of Cordoba
+      institution: University of Córdoba
       year: 2022
     - course: MSc in Territorial, Urban and Environmental Planning
-      institution: University of Malaga
+      institution: University of Málaga
       year: 2021
     - course: BSc in Biological Sciences
-      institution: University of Malaga
+      institution: University of Málaga
       year: 2018
 
 # Social/Academic Networking
@@ -93,5 +93,5 @@ email: ''
 highlight_name: true
 ---
 
-Jessica Bernal is a biologist specializing in geomatics and spatial modeling from the University of Córdoba, with a solid background in law applied to the environment and territorial planning acquired through the Faculty of Law of the University of Malaga. Her latest academic works include the projects “Human-wildlife conflict in the Limpopo National Park. An approach through habitat suitability modeling” and “Hydrological risks and planning in the province of Malaga”, the latter awarded in the Terra Málaga research awards 2022. Likewise, throughout her professional career, she has acquired extensive experience in the analysis and evaluation of environmental impact, having assessed more than 30 construction projects for the General Directorate of Quality and Environmental Evaluation of the Ministry for the Ecological Transition and Demographic Challenge of Spain (MITERD), including the spatial analysis and preparation of environmental impact statements for activities related to the energy sector, linear infrastructures, and soil contamination. 
+Jessica Bernal is a biologist specializing in geomatics and spatial modeling from the University of Córdoba, with a solid background in law applied to the environment and territorial planning acquired through the Faculty of Law of the University of Málaga. Her latest academic works include the projects “Human-wildlife conflict in the Limpopo National Park. An approach through habitat suitability modeling” and “Hydrological risks and planning in the province of Málaga”, the latter awarded in the Terra Málaga research awards 2022. Likewise, throughout her professional career, she has acquired extensive experience in the analysis and evaluation of environmental impact, having assessed more than 30 construction projects for the General Directorate of Quality and Environmental Evaluation of the Ministry for the Ecological Transition and Demographic Challenge of Spain (MITERD), including the spatial analysis and preparation of environmental impact statements for activities related to the energy sector, linear infrastructures, and soil contamination. 
 {style="text-align: justify;"}
