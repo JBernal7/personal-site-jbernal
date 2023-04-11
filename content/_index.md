@@ -268,7 +268,6 @@ sections:
 #    design:
 #      columns: '2'
 #      view: citation
-
   - block: contact
     id: contact
     content:
