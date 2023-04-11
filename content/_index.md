@@ -34,8 +34,8 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-  - block: experience
-    content:
+  #- block: experience
+  #  content:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -68,7 +68,11 @@ sections:
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["40px", "0", "20px", "0"]
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
