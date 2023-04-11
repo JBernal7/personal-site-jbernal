@@ -278,7 +278,7 @@ sections:
     id: blog
     content:
       title: Recent Posts
-      subtitle: 'Insights from a biologist's perspective'
+      subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
