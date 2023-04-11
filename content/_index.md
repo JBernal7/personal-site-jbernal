@@ -120,7 +120,7 @@ sections:
      background:
        image:
          # Name of image in `assets/media/`.
-         filename: jb_catching33.jpeg
+         filename: jb_catching33.jpg
          # Apply image filters?
          filters:
            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
@@ -203,7 +203,7 @@ sections:
       background:
         image:
           # Name of image in `assets/media/`.
-          filename: jb_catching33.jpeg
+          filename: jb_catching33.jpg
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
