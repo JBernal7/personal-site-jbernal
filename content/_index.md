@@ -203,7 +203,7 @@ sections:
     id: talks
     content:
       title: SciComm
-      subtitle: Events, talks & more 
+      subtitle: 'Events, talks & more' 
       count: 3
       filters:
         folders:
@@ -306,23 +306,12 @@ sections:
         postcode: '29071'
         country: Spain
         country_code: ES
-    
-#      contact_links:
-#        - icon: twitter
-#          icon_pack: fab
-#          name: DM Me
-#          link: 'https://twitter.com/Twitter'
-#        - icon: skype
-#          icon_pack: fab
-#          name: Skype Me
-#          link: 'skype:echo123?call'
-#        - icon: video
-#          icon_pack: fas
-#          name: Zoom Me
-#          link: 'https://zoom.com'
-     # Automatically link email and phone or display as text?
-     autolink: true
-     # Email form provider
+        coordinates:
+          latitude: 36.72
+          longitude: -4.42
+      # Automatically link email and phone or display as text?
+      autolink: true
+      # Email form provider
      form:
        provider: netlify
        formspree:
