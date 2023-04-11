@@ -13,7 +13,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-      design:
+     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ["200px", "0", "200px", "0"]
@@ -67,12 +67,12 @@ sections:
 #          date_start: '2016-01-01'
 #          date_end: '2020-12-31'
 #          description: Taught electronic engineering and researched semiconductor physics.
-      design:
-       # Choose how many columns the section has. Valid values: '1' or '2'.
-       columns: '2'
+     design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
       spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["40px", "0", "20px", "0"]
+       # Customize the section spacing. Order is top, right, bottom, left.
+       padding: ["40px", "0", "20px", "0"]
         
   - block: markdown
     id: parallax1
