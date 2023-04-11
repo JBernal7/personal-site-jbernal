@@ -95,7 +95,7 @@ sections:
           text_color_light: true 
           
 
- - block: portfolio
+  - block: portfolio
     id: projects
     content:
       title: Projects
@@ -131,40 +131,40 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
       
-   - block: markdown
-      id: parallax2
-      design:
-       background:
-        image:
-          # Name of image in `assets/media/`.
-          filename: jb_catching33.jpeg
-          # Apply image filters?
-          filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.7
-          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-          size: cover
-          # Image focal point. Options include `left`, `center` (default), or `right`.
-          position: center
-          # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: true
-          # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: true
+  - block: markdown
+    id: parallax2
+    design:
+     background:
+       image:
+         # Name of image in `assets/media/`.
+         filename: jb_catching33.jpeg
+         # Apply image filters?
+         filters:
+           # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+           brightness: 0.7
+         #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+         size: cover
+         # Image focal point. Options include `left`, `center` (default), or `right`.
+         position: center
+         # Use a fun parallax-like fixed background effect on desktop? true/false
+         parallax: true
+         # Text color (true=light, false=dark, or remove for the dynamic theme color).
+         text_color_light: true
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ["200px", "0", "100px", "0"]
         
-   - block: collection
-     id: publications
-     content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-     design:
-      columns: '2'
-      view: citation
+  - block: collection
+    id: publications
+    content:
+     title: Publications
+     filters:
+       folders:
+         - publication
+       exclude_featured: false
+    design:
+     columns: '2'
+     view: citation
 
   - block: collection
     content:
@@ -200,7 +200,7 @@ sections:
           text_color_light: true
 
  
- - block: collection
+  - block: collection
     id: talks
     content:
       title: SciComm
@@ -308,19 +308,19 @@ sections:
         country: Spain
         country_code: ES
     
-     # contact_links:
-     #   - icon: twitter
-     #     icon_pack: fab
-     #     name: DM Me
-     #     link: 'https://twitter.com/Twitter'
-     #   - icon: skype
-     #     icon_pack: fab
-     #     name: Skype Me
-    #      link: 'skype:echo123?call'
-    #    - icon: video
-    #      icon_pack: fas
-    #      name: Zoom Me
-    #      link: 'https://zoom.com'
+#      contact_links:
+#        - icon: twitter
+#          icon_pack: fab
+#          name: DM Me
+#          link: 'https://twitter.com/Twitter'
+#        - icon: skype
+#          icon_pack: fab
+#          name: Skype Me
+#          link: 'skype:echo123?call'
+#        - icon: video
+#          icon_pack: fas
+#          name: Zoom Me
+#          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
@@ -335,22 +335,22 @@ sections:
       columns: '2'
       
   - block: markdown
-     id: parallax1
-     design:
-      background:
-        image:
-          # Name of image in `assets/media/`.
-          filename: jb_catching33.jpg
-          # Apply image filters?
-          filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.7
-          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-          size: cover
-          # Image focal point. Options include `left`, `center` (default), or `right`.
-          position: center
-          # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: true
-          # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: true 
+    id: parallax1
+    design:
+     background:
+       image:
+         # Name of image in `assets/media/`.
+         filename: jb_catching33.jpg
+         # Apply image filters?
+         filters:
+           # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+           brightness: 0.7
+         #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+         size: cover
+         # Image focal point. Options include `left`, `center` (default), or `right`.
+         position: center
+         # Use a fun parallax-like fixed background effect on desktop? true/false
+         parallax: true
+         # Text color (true=light, false=dark, or remove for the dynamic theme color).
+         text_color_light: true 
 ---
