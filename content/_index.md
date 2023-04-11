@@ -17,22 +17,6 @@ sections:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ["200px", "0", "200px", "0"]
      
-#  - block: features
-#    content:
-#      title: Skills
-#      items:
-#        - name: R
-#          description: 90%
-#          icon: r-project
-#          icon_pack: fab
-#        - name: Statistics
-#          description: 100%
-#          icon: chart-line
-#          icon_pack: fas
-#        - name: Photography
-#          description: 10%
-#          icon: camera-retro
-#          icon_pack: fas
 #  - block: experience
 #    content:
 #      title: Experience
