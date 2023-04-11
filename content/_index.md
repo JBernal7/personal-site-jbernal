@@ -343,7 +343,7 @@ sections:
       email: jessicabernal@uma.es
       #appointment_url: 'https://calendly.com'
       address:
-        street: Avenida Cervantes, 2, 29071, Málaga
+        street: Avenida Cervantes, 2
         city: Malaga
         region: Andalusia
         postcode: '29071'
@@ -378,4 +378,24 @@ sections:
           captcha: false
     design:
       columns: '2'
+      
+     - block: markdown
+    id: parallax1
+    design:
+      background:
+        image:
+          # Name of image in `assets/media/`.
+          filename: jb_catching33.jpg
+          # Apply image filters?
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.7
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: true
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: true 
 ---
