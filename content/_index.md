@@ -140,7 +140,7 @@ sections:
       title: Projects
       filters:
         folders:
-          - project
+          - projects
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -285,7 +285,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - posts
         author: ""
         category: ""
         tag: ""
@@ -374,7 +374,7 @@ sections:
     design:
       columns: '2'
       
-     - block: markdown
+    - block: markdown
     id: parallax1
     design:
       background:
