@@ -97,8 +97,8 @@ sections:
           tag: '*'
         - name: People and Nature
           tag: people-and-nature
-        - name: Environmental Assessment
-          tag: environmental-assessment
+        - name: Environment & Planning
+          tag: environment-planning
         - name: Initiatives
           tag: initiatives
         - name: Macroecology
@@ -221,7 +221,7 @@ sections:
     id: blog
     content:
       title: Recent Posts
-      subtitle: ''
+      subtitle: 'Code, news, and reflections from a biologist's perspective'
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
