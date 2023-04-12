@@ -1,5 +1,5 @@
 ---
-title: Global Flyway Network
+title: Global Flyway Ecology
 date: 2023-04-11T16:42:37.109Z
 summary: Team Piersma is a group of researchers working with Prof. Dr Theunis
   Piersma under the umbrella of Global Flyway Network, a foundation under Dutch
