@@ -221,7 +221,7 @@ sections:
     id: blog
     content:
       title: Recent Posts
-      subtitle: 'Code, news, and reflections from a biologist's perspective'
+      subtitle: 'Code, news, and reflections from a biologist'
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
