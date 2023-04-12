@@ -7,7 +7,7 @@ featured: false
 tags:
   - hsm
 image:
-  filename: featured
+  filename: pexels-erik-mclean-4157094.jpg
   focal_point: Smart
   preview_only: false
 ---
