@@ -2,6 +2,7 @@
 title: "MaxEnt Algorithm: Using Machine Learning to Improve Species Distribution
   Modeling"
 date: 2023-02-15T16:56:00.000Z
+summary: ""
 draft: false
 featured: false
 tags:
@@ -15,13 +16,6 @@ image:
 
 <p>MaxEnt, short for Maximum Entropy, is a machine learning algorithm that has been widely used in species distribution modeling. It is based on the principle of maximum entropy, which states that the probability distribution that best represents our current knowledge about a system is the one that is maximally uncertain, subject to constraints imposed by that knowledge.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:gallery {"linkTo":"none"} -->
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":687,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://estoeracampo.files.wordpress.com/2023/02/pexels-erik-mclean-4157094-1.jpg?w=1024" alt="" class="wp-image-687"/></figure>
-<!-- /wp:image --></figure>
-<!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
 
