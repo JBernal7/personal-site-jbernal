@@ -95,7 +95,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: People and Nature
+        - name: People & Nature
           tag: people-and-nature
         - name: Environment & Planning
           tag: environment-planning
