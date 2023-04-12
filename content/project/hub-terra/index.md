@@ -8,7 +8,7 @@ tags:
   - initiative
 external_link: https://hub-terra.com/
 image:
-  filename: featured
+  filename: pexels-david-selbert-7853221.jpg
   focal_point: Smart
   preview_only: false
 ---
