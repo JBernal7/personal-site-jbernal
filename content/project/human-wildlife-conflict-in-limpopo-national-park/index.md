@@ -13,6 +13,8 @@ summary: >-
   situation.
 draft: false
 featured: false
+authors:
+  - admin
 tags:
   - hsm
 image:
