@@ -10,6 +10,7 @@ external_link: ""
 links:
   - url: https://www.ecoherencia.es/
     name: ecoherencia.es
+    icon_pack: fas
 image:
   filename: img_20161030_141233.jpg
   focal_point: Smart
