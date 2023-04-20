@@ -8,6 +8,8 @@ summary: Team Piersma is a group of researchers working with Prof. Dr Theunis
   the team conducts studies on shorebirds and spoonbills.
 draft: false
 featured: false
+authors:
+  - admin
 tags:
   - macroecology
 external_link: ""
