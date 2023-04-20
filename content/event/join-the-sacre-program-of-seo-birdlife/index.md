@@ -1,5 +1,5 @@
 ---
-title: "Join the Sacre program of SEO/Birdlife. "
+title: "Join the Sacre program of SEO/Birdlife "
 abstract: The populations of birds change over time and their evolution is known
   thanks to the Sacre program of SEO/BirdLife. The wide distribution of common
   birds requires the participation of numerous people so that the information is
