@@ -1,6 +1,6 @@
 ---
 title: Human-wildlife conflict in the Limpopo National Park. An approach through
-  habitat suitability modeling.
+  habitat suitability modeling
 publication_types:
   - "0"
 authors:
