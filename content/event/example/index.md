@@ -9,7 +9,7 @@ summary: An example talk using Wowchemy's Markdown slides feature.
 title: "Join the Sacre program of SEO/Birdlife. "
 location: Spain (multiple locations)
 date: 2030-04-15T04:00:00.000Z
-date_end: 2030-06-01T15:00:00Z
+date_end: 2030-06-01T15:00:00.000Z
 all_day: true
 event: Citizen Science Call
 event_url: https://programaseguimientodeaves.seo.org/
@@ -26,7 +26,7 @@ address:
   country: United States
 links:
   - url: https://programaseguimientodeaves.seo.org/?utm_source=mailpoet&utm_medium=email&utm_campaign=participa-en-el-programa-sacre
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 projects: []
 image:
