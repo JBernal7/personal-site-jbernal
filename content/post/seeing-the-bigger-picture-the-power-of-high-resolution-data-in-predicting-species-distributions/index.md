@@ -1,7 +1,7 @@
 ---
 title: "Seeing the Bigger Picture: The Power of High-Resolution Data in
   Predicting Species Distributions"
-date: 2023-04-20T09:54:42.138Z
+date: 2023-03-02T16:49:42.138Z
 draft: false
 featured: false
 authors:
