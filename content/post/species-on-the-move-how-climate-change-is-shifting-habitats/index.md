@@ -7,19 +7,13 @@ authors:
   - admin
 projects: []
 image:
-  filename: featured
+  filename: pexels-amelie-lachapelle-318427.jpg
   focal_point: Smart
   preview_only: false
 ---
 <!--StartFragment-->
 
 Climate change is one of the most significant threats facing species today. As temperatures and precipitation patterns shift, the habitats of many species are changing, and some may be forced to migrate to new areas. To predict and mitigate these impacts, scientists are using species distribution models that incorporate climate data to project how the distributions of species may change in the coming decades.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-![La imagen tiene un atributo ALT vacío; su nombre de archivo es pexels-amelie-lachapelle-318427.jpg](https://estoeracampo.files.wordpress.com/2023/02/pexels-amelie-lachapelle-318427.jpg?w=680)
 
 <!--EndFragment-->
 
