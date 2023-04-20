@@ -10,7 +10,7 @@ summary: MaxEnt, short for Maximum Entropy, is a machine learning algorithm that
 draft: false
 featured: false
 authors:
-  - J.Bernal
+  - admin
 tags:
   - hsm
 image:
