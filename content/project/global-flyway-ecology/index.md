@@ -10,7 +10,10 @@ draft: false
 featured: false
 tags:
   - macroecology
-external_link: https://teampiersma.org/
+external_link: ""
+links:
+  - url: https://teampiersma.org/
+    name: Team Piersma
 image:
   filename: jb_catching37.jpg
   focal_point: Smart
