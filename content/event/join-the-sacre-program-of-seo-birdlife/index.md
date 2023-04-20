@@ -27,6 +27,7 @@ address:
 links:
   - url: https://programaseguimientodeaves.seo.org/?utm_source=mailpoet&utm_medium=email&utm_campaign=participa-en-el-programa-sacre
     name: Know more
+    icon_pack: fas
 publishDate: 2023-04-20T21:47:49.874Z
 tags: []
 projects: []
