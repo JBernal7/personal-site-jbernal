@@ -6,7 +6,9 @@ featured: false
 authors: []
 tags:
   - people-and-nature
-external_link: https://www.ecoherencia.es/
+external_link: ""
+links:
+  - url: https://www.ecoherencia.es/
 image:
   filename: img_20161030_141233.jpg
   focal_point: Smart
