@@ -24,7 +24,7 @@ authors:
   - admin
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: Right
   preview_only: false
 ---
 Two mornings in the spring are enough to participate, so that the small effort of hundreds of participants each year facilitates the necessary information to obtain the population trends of common birds. Are you up for it?
