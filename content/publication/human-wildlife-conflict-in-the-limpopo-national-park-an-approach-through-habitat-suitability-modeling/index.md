@@ -27,7 +27,7 @@ abstract: Among the large herbivores that inhabit the Mozambican Limpopo
   illustrate the potential application of habitat distribution models in the
   study of human-wildlife conflicts.
 draft: false
-featured: false
+featured: true
 tags:
   - hsm
 image:
