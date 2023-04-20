@@ -1,9 +1,12 @@
 ---
 title: Hydrological Risks and Planning in the Province of Malaga
+subtitle: "https://doi.org/10.13140/RG.2.2.28125.08163 "
 publication_types:
   - "7"
 authors:
   - admin
+author_notes:
+  - Universida
 doi: 10.13140/RG.2.2.28125.08163
 abstract: "The province of Málaga is located in one of the Mediterranean regions
   most threatened by risks associated with water and the effects of climate
@@ -24,5 +27,5 @@ image:
   focal_point: Smart
   preview_only: false
   caption: Red hidrológica de Málaga diferenciada en subcuencas. J. Bernal.
-date: 2023-04-20T14:37:33.408Z
+date: 2022-12-12T15:37:00.000Z
 ---
