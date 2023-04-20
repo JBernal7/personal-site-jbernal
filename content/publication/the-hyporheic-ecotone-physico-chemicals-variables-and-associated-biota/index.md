@@ -1,5 +1,5 @@
 ---
-title: The hyporheic ecotone. Physico chemicals variables and associated biota.
+title: The hyporheic ecotone. Physico chemicals variables and associated biota
 publication_types:
   - "0"
 authors:
