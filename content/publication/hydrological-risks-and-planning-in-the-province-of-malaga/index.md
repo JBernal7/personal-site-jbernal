@@ -5,8 +5,7 @@ publication_types:
   - "7"
 authors:
   - admin
-author_notes:
-  - Universida
+author_notes: []
 doi: 10.13140/RG.2.2.28125.08163
 abstract: "The province of Málaga is located in one of the Mediterranean regions
   most threatened by risks associated with water and the effects of climate
