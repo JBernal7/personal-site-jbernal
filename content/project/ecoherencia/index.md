@@ -3,7 +3,9 @@ title: Ecoherencia
 date: 2023-04-12T07:57:32.807Z
 draft: false
 featured: false
-authors: []
+authors:
+  - admin
+  - Ecoherencia
 tags:
   - people-and-nature
 external_link: ""
