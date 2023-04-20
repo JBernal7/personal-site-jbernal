@@ -14,7 +14,11 @@ draft: false
 featured: false
 tags:
   - macroecology
-external_link: https://www.nioz.nl/en/research/projects/4126-20
+external_link: ""
+links:
+  - url: https://www.nioz.nl/en/research/projects/4126-20
+    name: SIBES Project
+    icon_pack: fas
 image:
   filename: sibes9.jpg
   focal_point: Smart
