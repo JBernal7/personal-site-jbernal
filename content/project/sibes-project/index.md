@@ -12,6 +12,8 @@ summary: SIBES (Synoptic Intertidal BEnthic Survey) is a systematic long-term
   on mudflats worldwide.
 draft: false
 featured: false
+authors:
+  - admin
 tags:
   - macroecology
 external_link: ""
