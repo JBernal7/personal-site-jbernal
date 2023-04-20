@@ -4,9 +4,15 @@ subtitle: Transforming data into actionable insights for habitat management
 date: 2023-04-12T08:36:59.239Z
 draft: false
 featured: false
+authors:
+  - admin
 tags:
   - initiative
-external_link: https://hub-terra.com/
+external_link: ""
+links:
+  - url: https://hub-terra.com/
+    name: Visit Hub-Terra
+    icon_pack: fas
 image:
   filename: pexels-david-selbert-7853221.jpg
   focal_point: Smart
