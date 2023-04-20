@@ -3,7 +3,7 @@ abstract: >
   The period for taking samples begins on April 15th. 
 
   The populations of birds change over time and their evolution is known thanks to the Sacre program of SEO/BirdLife. The wide distribution of common birds requires the participation of numerous people so that the information is representative of the whole country. Thousands of volunteers have participated in this bird monitoring program since 1996, and it is important to maintain this contribution to cover more territory and also replace volunteers who cannot continue.
-slides: example
+slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: "Join the Sacre program of SEO/Birdlife. "
@@ -32,7 +32,7 @@ projects: []
 image:
   caption: ""
   focal_point: Right
-  filename: martinpescador.jpg
+  filename: featured.jpg
 url_code: ""
 ---
 Two mornings in the spring are enough to participate, so that the small effort of hundreds of participants each year facilitates the necessary information to obtain the population trends of common birds. Are you up for it?
