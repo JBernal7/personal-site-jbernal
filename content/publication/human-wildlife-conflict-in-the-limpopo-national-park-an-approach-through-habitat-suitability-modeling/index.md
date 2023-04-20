@@ -3,8 +3,9 @@ title: Human-wildlife conflict in the Limpopo National Park. An approach through
   habitat suitability modeling.
 publication_types:
   - "0"
-author_notes:
+authors:
   - admin
+author_notes: []
 doi: 10.13140/RG.2.2.19459.99361
 abstract: Among the large herbivores that inhabit the Mozambican Limpopo
   National Park are the elephant (L. africana), the buffalo (S. caffer), and the
