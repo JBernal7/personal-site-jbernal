@@ -1,7 +1,7 @@
 ---
 title: How Citizen Science and Remote Sensing Can Inform Time-Sensitive Policy
   Decisions for Endangered Species
-date: 2023-04-20T10:19:04.679Z
+date: 2023-04-07T17:16:04.679Z
 draft: false
 featured: false
 authors:
