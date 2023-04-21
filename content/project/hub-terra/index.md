@@ -8,6 +8,8 @@ authors:
   - admin
 tags:
   - initiatives
+  - environment-planning
+  - hsm
 external_link: ""
 links:
   - url: https://hub-terra.com/
