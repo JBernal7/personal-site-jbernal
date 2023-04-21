@@ -24,8 +24,8 @@ organizations:
   - name: University of Málaga
     url: https://www.uma.es/
     
-  - name: Hub-Terra Research and Technology
-    url: https://hub-terra.com
+ # - name: Hub-Terra Research and Technology
+ #   url: https://hub-terra.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in macroecological processes, seeking to improve our knowledge in habitat suitability distribution modeling, mainly at the taxon level, but in conjunction with communities, ecosystems, and their services.
@@ -82,9 +82,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
