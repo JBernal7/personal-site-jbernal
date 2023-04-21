@@ -7,7 +7,7 @@ featured: false
 authors:
   - admin
 tags:
-  - initiative
+  - initiatives
 external_link: ""
 links:
   - url: https://hub-terra.com/
