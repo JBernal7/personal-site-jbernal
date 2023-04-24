@@ -275,7 +275,7 @@ sections:
       title: Contact
       subtitle:
       #text: |-
-      text: ""
+      text: ''
       # Contact (add or remove contact options as necessary)
       email: jessicabernal@uma.es
       address:
@@ -299,8 +299,8 @@ sections:
 #       netlify:
 #         # Enable CAPTCHA challenge to reduce spam?
 #         captcha: false
-#    design:
-#      columns: '2'
+   design:
+     columns: '1'
       
   - block: markdown
     id: parallax1
