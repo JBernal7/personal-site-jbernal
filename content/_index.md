@@ -290,8 +290,8 @@ sections:
       coordinates:
           latitude: 36.72
           longitude: -4.42
-     design:
-      columns: '2'
+    design:
+     columns: '1'
       
   - block: markdown
     id: parallax1
