@@ -93,5 +93,13 @@ email: ''
 highlight_name: true
 ---
 
-Jessica Bernal is a biologist specializing in geomatics and spatial modeling from the University of Córdoba, with a solid background in law applied to the environment and territorial planning acquired through the Faculty of Law of the University of Málaga. Her latest academic works include the projects “Human-wildlife conflict in the Limpopo National Park. An approach through habitat suitability modeling” and “Hydrological risks and planning in the province of Málaga”, the latter awarded in the Terra Málaga research awards 2022. Likewise, throughout her professional career, she has acquired extensive experience in the analysis and evaluation of environmental impact, having assessed more than 30 construction projects for the General Directorate of Quality and Environmental Evaluation of the Ministry for the Ecological Transition and Demographic Challenge of Spain (MITERD), including the spatial analysis and preparation of environmental impact statements for activities related to the energy sector, linear infrastructures, and soil contamination. 
+**Welcome to Jessica Bernal's Site** 
+
+Hi👋, I'm Jessica Bernal, a dedicated biologist with a focus on geomatics, spatial modeling, and environmental law. My passion lies in macroecological processes, habitat suitability distribution modeling, and understanding ecosystems and their services.
+
+As an Environmental Specialist and Freelance Consultant, I offer technical and legal advice on environmental matters and am constantly seeking projects that tackle climate change, biological invasions, or rare species management.
+
+Explore my site to learn about my research, projects, and publications, and dive into my blog and SciComm section for insights on environmental topics. Connect with me on ResearchGate, LinkedIn, and Github, or reach out through the Contact page for any inquiries or collaboration opportunities.
+
+Thank you for stopping by, and enjoy your visit! 
 {style="text-align: justify;"}
