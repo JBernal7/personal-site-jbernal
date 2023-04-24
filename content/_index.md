@@ -271,7 +271,7 @@ sections:
   
   - block: contact
     id: contact
-    type: html
+    widget: html
     content:
       title: Contact
       subtitle:
