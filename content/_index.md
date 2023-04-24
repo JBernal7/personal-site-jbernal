@@ -275,21 +275,7 @@ sections:
       title: Contact
       subtitle:
       #text: |-
-      text: >-
-        {{< rawhtml >}}
-        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
-        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
-        <div id="map" style="width: 100%; height: 400px;"></div>
-        <script>
-          var map = L.map('map').setView([36.72, -4.42], 15);
-          L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-            maxZoom: 18,
-          }).addTo(map);
-          var marker = L.marker([YOUR_LATITUDE, YOUR_LONGITUDE]).addTo(map);
-        </script>
-        {{< /rawhtml >}}
-      
+      text: ""
       # Contact (add or remove contact options as necessary)
       email: jessicabernal@uma.es
       address:
