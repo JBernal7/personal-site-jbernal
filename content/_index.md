@@ -15,7 +15,7 @@ sections:
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["50px", "0", "50px", "0"]
+        padding: ["40px", "0", "40px", "0"]
      
 #  - block: experience
 #    content:
