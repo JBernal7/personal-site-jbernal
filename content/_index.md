@@ -271,7 +271,7 @@ sections:
   
   - block: contact
     id: contact
-    widget: blank
+    widget: contact
     content:
       title: Contact
       subtitle:
@@ -291,6 +291,15 @@ sections:
           longitude: -4.42
       # Automatically link email and phone or display as text?
       autolink: true
+      
+  - block: map
+    id: map
+    widget: map
+    content:
+      coordinates:
+        latitude: 36.72
+        longitude: -4.42
+        
 #      # Email form provider
 #      form:
 #       provider: netlify
