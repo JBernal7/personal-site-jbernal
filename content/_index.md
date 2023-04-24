@@ -299,8 +299,8 @@ sections:
 #       netlify:
 #         # Enable CAPTCHA challenge to reduce spam?
 #         captcha: false
-   design:
-     columns: '1'
+    design:
+      columns: '1'
       
   - block: markdown
     id: parallax1
