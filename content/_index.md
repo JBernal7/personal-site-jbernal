@@ -271,7 +271,6 @@ sections:
   
   - block: contact
     id: contact
-    widget: contact
     content:
       title: Contact
       subtitle:
