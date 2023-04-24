@@ -28,7 +28,7 @@ organizations:
  #   url: https://hub-terra.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in macroecological processes, seeking to improve our knowledge in habitat suitability distribution modeling, mainly at the taxon level, but in conjunction with communities, ecosystems, and their services.
+bio: A Spanish Biologist passionate about geomatics, spatial modeling, and macroecological processes.
 
 # Interests to show in About widget
 interests:
@@ -93,13 +93,13 @@ email: ''
 highlight_name: true
 ---
 
-**Welcome to Jessica Bernal's Site** 
+# Welcome to Jessica Bernal's site 
 
-Hi👋, I'm Jessica Bernal, a dedicated biologist with a focus on geomatics, spatial modeling, and environmental law. My passion lies in macroecological processes, habitat suitability distribution modeling, and understanding ecosystems and their services.
+Hi👋, I'm Jessica Bernal, a dedicated **Spanish biologist** with a focus on **geomatics, spatial modeling, and environmental law**. My passion lies in macroecological processes, habitat suitability distribution modeling, and understanding ecosystems and their services.
 
-As an Environmental Specialist and Freelance Consultant, I offer technical and legal advice on environmental matters and am constantly seeking projects that tackle climate change, biological invasions, or rare species management.
+As an **Environmental Specialist** and **Freelance Consultant**, I offer technical and legal advice on environmental matters and am constantly seeking projects that tackle **climate change, biological invasions, or rare species management**.
 
-Explore my site to learn about my research, projects, and publications, and dive into my blog and SciComm section for insights on environmental topics. Connect with me on ResearchGate, LinkedIn, and Github, or reach out through the Contact page for any inquiries or collaboration opportunities.
+Explore my site to learn about my research, projects, and publications, and dive into my blog and SciComm section for insights on environmental topics in both English and Spanish. Connect with me on ResearchGate, LinkedIn, and Github, or reach out through the Contact page for any inquiries or collaboration opportunities.
 
 Thank you for stopping by, and enjoy your visit! 
 {style="text-align: justify;"}
