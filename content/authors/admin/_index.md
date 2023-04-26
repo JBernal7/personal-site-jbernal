@@ -93,7 +93,7 @@ email: ''
 highlight_name: true
 ---
 
-# Welcome to Jessica Bernal's site 🦥
+# Welcome to Jessica Bernal's site🦥
 
 Hi, I'm Jessica Bernal,  a **Spanish biologist** with **geomatics, spatial modeling, and environmental law** expertise. Passionate about macroecology and habitat suitability modeling, I offer environmental consulting services and co-lead [Hub-Terra](https://www.hub-terra.com/), focusing on geospatial solutions for conservation, land management, and natural resource planning.
 
