@@ -279,17 +279,17 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: jessicabernal@uma.es
       address:
-        street: Avenida Cervantes 2
+        street: Blvr. Louis Pasteur 31
         city: Malaga
         region: Andalusia
-        postcode: '29071'
+        postcode: '29010'
         country: Spain
         country_code: ES
       # Automatically link email and phone or display as text?
       autolink: true
       coordinates:
           latitude: 36.72
-          longitude: -4.42
+          longitude: -4.47
     design:
      columns: '1'
       
