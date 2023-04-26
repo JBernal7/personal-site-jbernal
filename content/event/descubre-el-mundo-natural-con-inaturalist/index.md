@@ -14,10 +14,10 @@ date_end: 2023-12-31T17:08:55.161Z
 all_day: true
 links:
   - url: https://www.inaturalist.org/home
-    name: iNaturalist site
+    name: iNaturalist (Global site)
     icon_pack: fas
-  - url: https://api.inaturalist.org/v1/docs/
-    name: iNat API
+  - url: https://spain.inaturalist.org/home
+    name: Natusfera (Spain)
     icon_pack: fas
 event: "Citizen Science - All Calls "
 event_url: https://www.inaturalist.org/home
