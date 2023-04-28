@@ -19,6 +19,9 @@ links:
   - url: https://spain.inaturalist.org/home
     name: Natusfera (Spain)
     icon_pack: fas
+  - url: https://www.inaturalist.org/pages/video+tutorials#identify
+    name: Video Tutorials
+    icon_pack: fas
 event: "Citizen Science - All Calls "
 event_url: https://www.inaturalist.org/home
 publishDate: 2023-04-26T16:02:46.356Z
