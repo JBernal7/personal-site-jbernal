@@ -21,11 +21,11 @@ organizations:
   - name: University of Córdoba
     url: https://www.uco.es/
   
-  - name: University of Málaga
-    url: https://www.uma.es/
+ # - name: University of Málaga
+ #   url: https://www.uma.es/
     
- # - name: Hub-Terra Research and Technology
- #   url: https://hub-terra.com
+  - name: Hub-Terra
+    url: https://hub-terra.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: A Spanish Biologist passionate about geomatics, spatial modeling, and macroecological processes.
