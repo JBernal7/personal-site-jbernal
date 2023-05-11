@@ -46,7 +46,7 @@ A pesar de que el proyecto MedMIS ha finalizado, su legado sigue presente en otr
 
 Si deseas contribuir al monitoreo y conservación de las especies marinas invasoras, te animo a participar en proyectos como Life INVASAQUA, que siguen necesitando el apoyo y la colaboración de la comunidad científica y el público en general.
 
-Además de la información proporcionada en este resumen, te dejo una pequeña presentación que ilustra resumidamente mi experiencia en este proyecto, y [este enlace](https://portals.iucn.org/library/node/10384) a una guía que sirvió de inspiración para el mismo y estoy segura que te será utilidad. 
+Además de la información proporcionada en este resumen, te dejo una pequeña [presentación](https://docs.google.com/presentation/d/127MvQNVL4c__Ni6LbSf0UZMkwfVMvqvO/edit?usp=sharing&ouid=107488867288576312186&rtpof=true&sd=true) que ilustra resumidamente mi experiencia en este proyecto, y [este enlace](https://portals.iucn.org/library/node/10384) a una guía que sirvió de inspiración para el mismo y estoy segura que te será utilidad. 
 
 <!--StartFragment-->
 
