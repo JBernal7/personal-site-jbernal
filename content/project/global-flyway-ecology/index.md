@@ -13,6 +13,9 @@ links:
   - url: https://teampiersma.org/
     name: Team Piersma
     icon_pack: fas
+  - url: https://www.nioz.nl/en/news/birds-change-their-stomachs-but-not-their-behavior-when-they-get-older
+    name: Red Knot
+    icon_pack: fas
 image:
   filename: jb_catching37.jpg
   focal_point: Smart
