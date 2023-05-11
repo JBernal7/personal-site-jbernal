@@ -2,6 +2,7 @@
 title: Técnicas y Herramientas para la Investigación de la Fauna y la Mitigación
   de Conflictos Humanos-Animales
 date: 2023-04-15T15:58:15.451Z
+lastmod: 2023-04-15
 summary: ""
 draft: false
 featured: false
