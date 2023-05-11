@@ -2,6 +2,7 @@
 title: Técnicas y Herramientas para la Investigación de la Fauna y la Mitigación
   de Conflictos Humanos-Animales
 date: 2023-04-15T15:58:15.451Z
+summary: ""
 draft: false
 featured: false
 authors:
@@ -109,17 +110,23 @@ Es importante recordar que todos los métodos de monitoreo de la fauna tienen su
 
 #### \- Enfoque para Detectar y Discriminar la Especie Objetivo
 
-Diferenciar entre especies es crucial en muchos estudios de comportamiento y distribución de la fauna. Los investigadores utilizan un conjunto de técnicas, que incluyen análisis morfológicos, genéticos y de comportamiento, para discriminar la especie objetivo de otras presentes en el mismo hábitat.
+El enfoque para detectar y discriminar la especie objetivo es una parte esencial de cualquier estudio de comportamiento y distribución de especies. Este enfoque se refiere al conjunto de técnicas utilizadas para identificar y diferenciar la especie que está siendo estudiada de otras especies que pueden estar presentes en el mismo hábitat. La discriminación precisa de especies es fundamental para obtener resultados fiables y precisos en la investigación ecológica y de la vida silvestre.
+
+Las técnicas de discriminación de especies pueden variar dependiendo de la especie objetivo y del ecosistema en el que se está trabajando. Algunas técnicas comunes incluyen el análisis morfológico, que se basa en la identificación de características físicas únicas de la especie objetivo; el análisis genético, que utiliza técnicas de ADN para identificar la especie; y el análisis de comportamiento, que se basa en la observación y documentación de comportamientos únicos de la especie objetivo. Por ejemplo, en un estudio de aves, los investigadores pueden utilizar el canto único de cada especie para identificar y discriminar entre diferentes especies. En otros casos, los investigadores pueden utilizar cámaras trampa y software de reconocimiento de imágenes para identificar automáticamente las especies en las fotos. Estas técnicas, cuando se utilizan correctamente, pueden proporcionar datos precisos y valiosos sobre la distribución y el comportamiento de la especie objetivo.
+
+
 
 ### 4. Aspectos Socioecológicos
 
 #### \- Evaluación del Uso de Dispositivos Disuasorios Mediante Cámaras Trampa
 
-Las cámaras trampa también pueden utilizarse para evaluar la efectividad de dispositivos disuasorios. Estos pueden ser tan variados como luces intermitentes, ruidos fuertes, o incluso repelentes de olor, diseñados para mantener a los animales alejados de ciertas áreas.
+La Evaluación del Uso de Dispositivos Disuasorios Mediante Cámaras Trampa es una técnica emergente que se está convirtiendo en una valiosa herramienta en el campo de la conservación de la fauna. Los dispositivos disuasorios son estructuras o tecnologías diseñadas para desalentar a los animales de entrar en áreas específicas, como los cultivos agrícolas o las zonas residenciales, para prevenir conflictos con los humanos. Estos dispositivos pueden variar ampliamente, desde sistemas de iluminación y sonido hasta repelentes olfativos y físicos, como cercas eléctricas. Las cámaras trampa, que son cámaras activadas por movimiento, se utilizan para evaluar la efectividad de estos dispositivos disuasorios al documentar la presencia y el comportamiento de los animales en las áreas protegidas por los dispositivos.
+
+Las cámaras trampa pueden ser especialmente útiles para evaluar la efectividad de los dispositivos disuasorios de manera no invasiva y precisa. Por ejemplo, si se coloca una cámara trampa en un campo protegido por un sistema de luces disuasorias, las imágenes capturadas pueden mostrar si los animales son efectivamente disuadidos por las luces o si se acostumbran a ellas y continúan entrando en el campo. Las imágenes pueden revelar no sólo si los animales entran en el campo, sino también cuándo y cómo responden a los dispositivos disuasorios. Esta información puede ser invaluable para ajustar y mejorar las estrategias de mitigación de conflictos entre humanos y animales.
 
 #### \- Perspectiva Social del Conflicto y los Marcos de Gestión y Seguimiento
 
-Finalmente, no podemos olvidar la perspectiva humana en los conflictos humanos-animales. Comprender cómo las comunidades locales perciben y responden a estos conflictos es esencial para desarrollar soluciones efectivas y duraderas. Los marcos de gestión y seguimiento deben incorporar esta perspectiva social, a la vez que se basan en datos científicos sólidos.
+Finalmente, no podemos olvidar la perspectiva humana en los conflictos humanos-animales. Comprender cómo las comunidades locales perciben y responden a estos conflictos es esencial para desarrollar soluciones efectivas y duraderas. Los marcos de gestión y seguimiento deben incorporar esta perspectiva social, a la vez que se basan en datos científicos sólidos. En mi publicación [Human-wildlife conflict in the Limpopo National Park. An approach through habitat suitability modeling](https://doi.org/10.13140/RG.2.2.19459.99361)a﻿bordo más en profundidad esta cuestión, que no obstante espero poder ir ampliando y compartiendo contigo desde este espacio en un futuro. 
 
 En conclusión, la combinación de tecnología de vanguardia, métodos de seguimiento tradicionales y un enfoque integral que incluya tanto a la fauna como a las comunidades humanas es esencial para mitigar los conflictos entre humanos y animales. Juntos, estos elementos nos acercan a nuestro objetivo de una coexistencia armoniosa con la rica diversidad de vida en nuestro planeta.
 
