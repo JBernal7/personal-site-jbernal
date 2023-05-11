@@ -10,6 +10,16 @@ authors:
   - admin
 tags:
   - initiatives
+links:
+  - url: https://docs.google.com/presentation/d/127MvQNVL4c__Ni6LbSf0UZMkwfVMvqvO/edit?usp=sharing&ouid=107488867288576312186&rtpof=true&sd=true
+    name: Presentación
+    icon_pack: fas
+  - url: https://drive.google.com/file/d/1G2bPM3Z3vXJqhJrEVR5-1SCCYwYhei47/view?usp=sharing
+    name: Poster Call FR
+    icon_pack: fas
+  - url: https://drive.google.com/file/d/16M-TeffdygDoYbs806XdFxvMShNV5WLD/view?usp=sharing
+    name: Poster Call EN
+    icon_pack: fas
 image:
   filename: capturamedmis.jpg
   focal_point: Smart
