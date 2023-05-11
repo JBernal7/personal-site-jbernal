@@ -97,7 +97,15 @@ La efectividad de las cercas depende de varios factores, incluyendo el diseño, 
 
 #### \- Método Formozov-Malyshev-Pereleshin (FMP)
 
-El método FMP es una técnica que permite convertir conteos de huellas en estimaciones de densidad de especies. Es especialmente útil en áreas de difícil acceso o en las que la observación directa de animales es desafiante.
+El Método Formozov-Malyshev-Pereleshin (FMP) es una técnica desarrollada en la Unión Soviética durante los años 60 y 70 que ha ganado reconocimiento a nivel global por su utilidad en el estudio de poblaciones de mamíferos grandes. Este método implica la transformación de conteos de huellas de animales en estimaciones de densidad de población, proporcionando así un medio indirecto pero eficaz para cuantificar la abundancia de ciertas especies.
+
+El proceso comienza recolectando datos de rastros de animales, generalmente durante el invierno cuando las huellas en la nieve son fácilmente visibles. Se utilizan segmentos de transepto para hacer los conteos, normalmente en áreas rectangulares o cuadradas. Una vez recogidos estos datos, el método FMP se aplica para calcular la densidad de la especie estudiada, teniendo en cuenta la tasa de movimiento del animal y la probabilidad de que deje huellas detectables. A pesar de su aparente simplicidad, este método requiere un buen conocimiento de la especie en cuestión, en particular de su comportamiento, para poder interpretar correctamente los datos y evitar sesgos. Aunque existen limitaciones y desafíos en su aplicación, el método FMP ha demostrado ser una herramienta valiosa en el estudio de la ecología y la conservación de grandes mamíferos, particularmente en regiones remotas y de difícil acceso.
+
+Es cierto que el método FMP se originó en regiones con inviernos nevados, donde las huellas de los animales son fácilmente visibles. Sin embargo, este método no está limitado a las regiones nevadas y puede ser aplicado en diferentes tipos de hábitat, siempre que las huellas de los animales puedan ser identificadas y contadas con precisión.
+
+En el sur de España, por ejemplo, este método podría ser aplicado en áreas donde los animales dejen huellas visibles en la arena o en el barro, o incluso en áreas forestales donde las huellas pueden ser identificadas en el suelo. Sin embargo, la eficacia de este método en estas áreas dependerá en gran medida de la habilidad del observador para identificar y contar las huellas, y de su conocimiento del comportamiento de la especie en cuestión.
+
+Es importante recordar que todos los métodos de monitoreo de la fauna tienen sus ventajas y limitaciones, y la elección del método más apropiado dependerá de una serie de factores, incluyendo las características del hábitat, la especie que se está estudiando, y los recursos disponibles para el estudio.
 
 #### \- Enfoque para Detectar y Discriminar la Especie Objetivo
 
