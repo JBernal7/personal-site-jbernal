@@ -71,13 +71,21 @@ Sin embargo, también existen algunas limitaciones en el uso de cámaras trampa:
 
 A pesar de estas limitaciones, las cámaras trampa han demostrado ser una herramienta valiosa en el estudio de la vida silvestre y la conservación, permitiendo a los investigadores obtener información detallada sobre la ecología de las especies y abordar desafíos como la pérdida de hábitat, la fragmentación y los conflictos humanos-animales.
 
-
-
 ### 2. Estructuras de Paso y Mitigación de Carreteras
 
 #### \- Pasos Subterráneos Readaptados y Desbroces en Márgenes
 
-Las estructuras de paso, como los túneles y los puentes para fauna, ayudan a mitigar el impacto de las carreteras en la vida salvaje. Los desbroces en márgenes, por otro lado, pueden facilitar el movimiento seguro de los animales alrededor de las áreas de alto tráfico.
+Los pasos subterráneos para la fauna son túneles o estructuras similares construidas bajo las carreteras para permitir el tránsito seguro de los animales. Estas estructuras son especialmente útiles en áreas donde las carreteras cortan las rutas de migración naturales de los animales o dividen su hábitat. Las especies que más comúnmente utilizan estos pasos incluyen anfibios, pequeños mamíferos, y ocasionalmente animales más grandes como los ciervos.
+
+Los pasos subterráneos pueden ser construidos como parte de nuevos proyectos de carreteras o añadidos a infraestructuras existentes. En algunos casos, los pasos subterráneos readaptados pueden haber sido originalmente diseñados para otros fines, como el drenaje de agua, pero luego se modifican para ser utilizados por la fauna.
+
+Además, el diseño de estos pasos puede variar considerablemente dependiendo de las especies objetivo y las condiciones del lugar. Por ejemplo, algunos pasos pueden estar equipados con características específicas para atraer a ciertas especies, como rocas y troncos para reptiles y anfibios, o pueden ser diseñados para estar secos en todo momento para atraer a mamíferos que evitan el agua.
+
+Por otro lado, los desbroces en márgenes son técnicas de manejo del hábitat que implican la eliminación de la vegetación en las orillas de las carreteras y otros corredores de transporte. Los desbroces pueden mejorar la visibilidad para los conductores y reducir la probabilidad de colisiones con la fauna. Sin embargo, deben hacerse con cuidado para no destruir hábitats valiosos o crear barreras adicionales para el movimiento de los animales.
+
+En áreas con altas concentraciones de fauna, los desbroces en márgenes a veces se combinan con señalización para advertir a los conductores, pasos de fauna y otras medidas para minimizar el riesgo de colisiones entre vehículos y animales.
+
+En resumen, tanto los pasos subterráneos readaptados como los desbroces en márgenes son herramientas valiosas para mejorar la seguridad de la fauna y los humanos en y alrededor de las carreteras. Sin embargo, como con todas las intervenciones de conservación, su diseño y aplicación deben ser informados por una sólida comprensión de las necesidades y comportamientos de las especies locales.
 
 #### \- Cercas para Proteger Áreas Sensibles
 
@@ -92,8 +100,6 @@ El método FMP es una técnica que permite convertir conteos de huellas en estim
 #### \- Enfoque para Detectar y Discriminar la Especie Objetivo
 
 Diferenciar entre especies es crucial en muchos estudios de comportamiento y distribución de la fauna. Los investigadores utilizan un conjunto de técnicas, que incluyen análisis morfológicos, genéticos y de comportamiento, para discriminar la especie objetivo de otras presentes en el mismo hábitat.
-
-
 
 ### 4. Aspectos Socioecológicos
 
