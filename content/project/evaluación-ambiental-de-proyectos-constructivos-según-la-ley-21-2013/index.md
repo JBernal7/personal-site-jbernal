@@ -47,10 +47,10 @@ A continuación, presento una tabla que resume los principales proyectos en los 
     text-align: left;
   }
   .column1 {
-    width: 60%;
+    width: 80%;
   }
   .column2 {
-    width: 40%;
+    width: 20%;
   }
 </style>
 
@@ -58,7 +58,7 @@ A continuación, presento una tabla que resume los principales proyectos en los 
   <thead>
     <tr>
       <th class="column1">Proyecto</th>
-      <th class="column2">Publicación</th>
+      <th class="column2">Publicación</th>
     </tr>
   </thead>
   <tbody>
@@ -133,7 +133,8 @@ A continuación, presento una tabla que resume los principales proyectos en los 
       <td class="column2"><a href= "https://www.boe.es/boe/dias/2021/02/05/pdfs/BOE-A-2021-1710.pdf">https://www.boe.es/boe/dias/2021/02/05/pdfs/BOE-A-2021-1710.pdf</a></td>
     </tr>
 <tr>
-      <td class="column1"><strong>Análisis SIG</strong> del proyecto “Instalación de un taller de preparación y montaje de espectáculos con artificios de pirotecnia en el T.M. De Villa de Mazo (La Palma)”.</td>
+      <td class="column1">
+<strong>Análisis SIG</strong> del proyecto “Instalación de un taller de preparación y montaje de espectáculos con artificios de pirotecnia en el T.M. De Villa de Mazo (La Palma)”.</td>
       <td class="column2"><a href= "https://www.boe.es/boe/dias/2021/02/13/pdfs/BOE-A-2021-2154.pdf">https://www.boe.es/boe/dias/2021/02/13/pdfs/BOE-A-2021-2154.pdf</a></td>
     </tr>
 <tr>
@@ -150,10 +151,8 @@ A continuación, presento una tabla que resume los principales proyectos en los 
       <td class="column2"><a href= "https://www.boe.es/buscar/doc.php?id=BOE-B-2019-47364">https://www.boe.es/buscar/doc.php?id=BOE-B-2019-47364</a></td>
     </tr>
 
-    <!-- Agrega más filas según sea necesario -->
   </tbody>
 </table>
-
 
 L﻿os expedientes sin publicación en BOE pueden ser consultados a través de la web proyecto SABIA: https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/evaluacion-ambiental/default.aspx
 
