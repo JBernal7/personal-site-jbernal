@@ -1,7 +1,7 @@
 ---
-title: "Herramientas efectivas para la coexistencia entre humanos y animales: Un
-  enfoque integral"
-date: 2023-05-11T15:58:15.451Z
+title: Técnicas y Herramientas para la Investigación de la Fauna y la Mitigación
+  de Conflictos Humanos-Animales
+date: 2023-04-15T15:58:15.451Z
 draft: false
 featured: false
 authors:
@@ -17,8 +17,6 @@ image:
   caption: J. N. Stuart
 ---
 <!--StartFragment-->
-
-## Técnicas y Herramientas para la Investigación de la Fauna y la Mitigación de Conflictos Humanos-Animales
 
 La coexistencia armoniosa entre humanos y animales es un objetivo de suma importancia para la conservación de la biodiversidad. En la búsqueda de este objetivo, los científicos han desarrollado y aplicado una variedad de técnicas y herramientas innovadoras. Hoy, exploraremos algunas de estas técnicas y su aplicación en el estudio de la vida salvaje y la mitigación de los conflictos entre humanos y animales.
 
@@ -89,7 +87,11 @@ En resumen, tanto los pasos subterráneos readaptados como los desbroces en már
 
 #### \- Cercas para Proteger Áreas Sensibles
 
-Las cercas son una herramienta simple pero efectiva para proteger hogares y áreas sensibles de la intrusión de animales salvajes. Pueden utilizarse para prevenir conflictos y mantener a salvo tanto a las personas como a los animales.
+Las cercas, como método de mitigación de conflictos entre humanos y animales, son una estrategia simple pero efectiva que se ha utilizado durante siglos. Se pueden usar para proteger todo tipo de áreas sensibles, desde huertos y campos de cultivo hasta hogares y escuelas. Su objetivo principal es prevenir la intrusión de animales salvajes en áreas donde podrían causar daños o representar una amenaza para la seguridad humana.
+
+La efectividad de las cercas depende de varios factores, incluyendo el diseño, la ubicación y el tipo de animal que se está intentando excluir. Para ser eficaces, las cercas deben diseñarse teniendo en cuenta las capacidades físicas y comportamentales de la especie objetivo. Por ejemplo, las cercas electrificadas pueden ser efectivas para mantener alejados a los elefantes, mientras que las cercas de malla de alambre pueden ser suficientes para excluir a los animales más pequeños. Las cercas también pueden diseñarse para ser permeables para algunas especies, permitiendo su movimiento mientras excluyen a otras. Sin embargo, es importante tener en cuenta que las cercas pueden tener impactos negativos en la fauna si no se implementan y mantienen adecuadamente, como la fragmentación del hábitat y el enredo de los animales. Por lo tanto, su uso debe equilibrarse con las necesidades de conservación y, cuando sea posible, combinarse con otras estrategias de mitigación de conflictos.
+
+
 
 ### 3. Métodos de Estimación y Seguimiento de la Fauna
 
