@@ -16,35 +16,35 @@ image:
 ---
 <!--StartFragment-->
 
-### 1. Orígenes del Fototrampeo
+### Orígenes del Fototrampeo
 
 El fototrampeo se originó en la década de 1890 cuando George Shiras, un político y fotógrafo estadounidense, comenzó a utilizar cámaras y flashes de magnesio para capturar imágenes de la fauna nocturna. Con el tiempo, esta técnica se ha refinado y modernizado, utilizando tecnología digital y sensores de movimiento para mejorar la eficacia y la recopilación de datos.
 
-### 2. La Tecnología Detrás de las Cámaras Trampa
+### La Tecnología Detrás de las Cámaras Trampa
 
 Las cámaras trampa son dispositivos automáticos que capturan fotos o vídeos cuando detectan movimiento. Equipadas con sensores infrarrojos o de calor, estas cámaras se activan cuando un animal pasa frente a ellas. Las imágenes capturadas se almacenan en una tarjeta de memoria para su posterior análisis.
 
-### 3. Objetivos y Diseño de Muestreo
+### Objetivos y Diseño de Muestreo
 
 El uso principal de las cámaras trampa es estudiar la distribución y el comportamiento de las especies, especialmente las que son difíciles de observar. Antes de instalar las cámaras, es importante tener claro el objetivo del estudio, ya sea monitorear una especie específica, un conjunto de especies, o analizar los patrones de actividad y comportamiento.
 
 El diseño de muestreo dependerá de estos objetivos. Por ejemplo, si se está estudiando una especie territorial, las cámaras se colocarán en áreas donde se sabe que esa especie marca su territorio. Si el objetivo es estudiar una variedad de especies, entonces las cámaras se distribuirán de manera más general en el hábitat.
 
-### 4. Instalación y Registro de Cámaras Trampa en Campo
+### Instalación y Registro de Cámaras Trampa en Campo
 
 La instalación de cámaras trampa debe realizarse de manera cuidadosa para minimizar el impacto en la fauna y maximizar la recopilación de datos. Se recomienda montar las cámaras a la altura del pecho de los animales objetivo, y en un ángulo que permita la mayor cobertura posible.
 
 Además, es esencial llevar un registro detallado de cada cámara, incluyendo su ubicación, la fecha de instalación, la fecha de recolección, y cualquier observación relevante.
 
-### 5. Información Obtenida de las Imágenes Capturadas
+### Información Obtenida de las Imágenes Capturadas
 
 Cada imagen capturada proporciona una gran cantidad de información. No solo se pueden identificar las especies presentes, sino también su comportamiento, el horario de actividad y la interacción con otras especies. Muchas cámaras trampa también registran la fecha y la hora de cada imagen, proporcionando datos valiosos sobre los patrones de actividad.
 
-### 6. Análisis de los Datos Recolectados
+### Análisis de los Datos Recolectados
 
 El análisis de los datos del fototrampeo puede ser una tarea intensiva, pero es fundamental para obtener resultados significativos. Los datos pueden analizarse para detectar patrones de actividad, relaciones entre especies, y cambios en la población o en el comportamiento a lo largo del tiempo. También pueden utilizarse modelos estadísticos para hacer inferencias sobre la población en general a partir de los datos de muestreo.
 
-### 7. Conclusiones y Recomendaciones Generales
+### Conclusiones y Recomendaciones Generales
 
 El fototrampeo es una herramienta inestimable en la conservación y estudio de la biodiversidad. Nos permite obtener información de manera no invasiva sobre especies que son difíciles de observar directamente, y nos ayuda a entender mejor su comportamiento y sus patrones de actividad.
 
@@ -55,8 +55,6 @@ Además, la gestión de los datos obtenidos mediante fototrampeo puede ser compl
 <!--EndFragment-->
 
 Como recomendación personal, el libro "Camera trapping for wildlife research" de Rovero y Zimmermann (2016) es una lectura esencial para cualquiera que esté interesado en la utilización de cámaras trampa en investigación y conservación [(video promocional)](https://www.youtube.com/watch?v=yzr1QmH-RPU). Este libro proporciona un enfoque exhaustivo y detallado sobre el uso de cámaras trampa, desde la selección y configuración de los equipos hasta la interpretación y análisis de los datos recopilados. Además, ofrece una visión global de cómo esta tecnología puede ser aplicada en diferentes contextos y para diversas especies, lo que lo convierte en un recurso muy versátil y útil. [](https://www.youtube.com/watch?v=yzr1QmH-RPU)
-
-
 
 <!-- wp:separator -->
 
