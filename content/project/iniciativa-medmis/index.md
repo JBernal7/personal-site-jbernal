@@ -20,6 +20,9 @@ links:
   - url: https://drive.google.com/file/d/16M-TeffdygDoYbs806XdFxvMShNV5WLD/view?usp=sharing
     name: Poster Call EN
     icon_pack: fas
+  - url: https://portals.iucn.org/library/node/10384
+    name: Guide
+    icon_pack: fas
 image:
   filename: capturamedmis.jpg
   focal_point: Smart
@@ -57,12 +60,6 @@ A pesar de que el proyecto MedMIS ha finalizado, su legado sigue presente en otr
 Si deseas contribuir al monitoreo y conservación de las especies marinas invasoras, te animo a participar en proyectos como Life INVASAQUA, que siguen necesitando el apoyo y la colaboración de la comunidad científica y el público en general.
 
 Además de la información proporcionada en este resumen, te dejo una pequeña [presentación](https://docs.google.com/presentation/d/127MvQNVL4c__Ni6LbSf0UZMkwfVMvqvO/edit?usp=sharing&ouid=107488867288576312186&rtpof=true&sd=true) que ilustra resumidamente mi experiencia en este proyecto, y [este enlace](https://portals.iucn.org/library/node/10384) a una guía que sirvió de inspiración para el mismo y estoy segura que te será utilidad. 
-
-<!--StartFragment-->
-
-url_slides: https://docs.google.com/presentation/d/127MvQNVL4c__Ni6LbSf0UZMkwfVMvqvO/edit?usp=sharing&ouid=107488867288576312186&rtpof=true&sd=true
-
-<!--EndFragment-->
 
 En mi web personal, seguiré compartiendo información sobre mi experiencia en iniciativas y otros proyectos relacionados con la conservación marina. Si tienes preguntas o deseas obtener más información, no dudes en ponerse en contacto conmigo. Juntos, podemos trabajar para proteger nuestros valiosos ecosistemas marinos.
 
