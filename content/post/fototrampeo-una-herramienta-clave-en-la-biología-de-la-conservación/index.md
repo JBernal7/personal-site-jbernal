@@ -1,18 +1,19 @@
 ---
-title: "Fototrampeo: Una Herramienta Clave en la Biología de la Conservación"
-date: 2023-02-21T16:16:08.713Z
-lastmod: 2023-02-21
 draft: false
-featured: false
 authors:
   - admin
+lastmod: 2023-02-21
+title: "Fototrampeo: Una Herramienta Clave en la Biología de la Conservación"
+date: 2023-02-21T16:16:08.713Z
+featured: false
 tags:
   - macroecology
 projects: []
 image:
-  filename: lince22.jpeg
+  filename: 2590584383_d3d2d2c8b5_c.jpg
   focal_point: Smart
   preview_only: false
+  caption: J. N. Stuart
 ---
 <!--StartFragment-->
 
