@@ -8,8 +8,10 @@ draft: false
 featured: false
 authors:
   - admin
+tags:
+  - initiatives
 image:
-  filename: featured
+  filename: capturamedmis.jpg
   focal_point: Smart
   preview_only: false
 ---
