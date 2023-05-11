@@ -8,9 +8,12 @@ authors:
 tags:
   - environment-planning
 image:
-  filename: featured
+  filename: pexels-jem-sanchez-1108814.jpg
   focal_point: Smart
   preview_only: false
+  caption: "Foto de Jem  Sanchez:
+    https://www.pexels.com/es-es/foto/molinos-de-viento-en-la-orilla-del-mar-ba\
+    jo-nubes-blancas-1108814/"
 ---
 <!--StartFragment-->
 
