@@ -7,8 +7,7 @@ authors:
   - admin
 tags:
   - macroecology
-projects:
-  - Hub-Terra
+projects: []
 image:
   filename: lince22.jpeg
   focal_point: Smart
