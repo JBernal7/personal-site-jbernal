@@ -8,6 +8,10 @@ authors:
   - admin
 tags:
   - initiatives;other
+links:
+  - url: https://docs.google.com/presentation/d/127MvQNVL4c__Ni6LbSf0UZMkwfVMvqvO/edit?usp=sharing&ouid=107488867288576312186&rtpof=true&sd=true
+    name: Presentación
+    icon_pack: fas
 image:
   filename: pexels-james-lee-4606063.jpg
   focal_point: Smart
@@ -32,6 +36,6 @@ En junio de 2017, durante la "10th World Sponge Conference" celebrada en Galway,
 
 La primera evaluación del filo Porifera a nivel Mediterráneo para la Lista Roja de la UICN es un proyecto esencial para comprender y proteger la biodiversidad en el mar Mediterráneo. A través de mi experiencia como coordinadora y asesora en este proyecto, he contribuido al avance en el conocimiento y la conservación de las esponjas en esta importante región. Además, durante mi trabajo en este proyecto, obtuve mi certificación como asesora global de especies para la Lista Roja de la UICN. 
 
-Si deseas obtener más información sobre este proyecto o mi experiencia en la evaluación de esponjas, no dudes en ponerse en contacto conmigo. Entre tanto, te dejo aquí una presentación realizada durante mi estancia como interina para la UICN-Med (previa a a mi etapa como consultora externa), para que puedas conocer un poco más sobre las esponjas, así como la iniciativa MedMIS, de la que te hablo un poco más en otra publicación. 
+Si deseas obtener más información sobre este proyecto o mi experiencia en la evaluación de esponjas, no dudes en ponerse en contacto conmigo. Entre tanto, te dejo [aquí ](https://docs.google.com/presentation/d/127MvQNVL4c__Ni6LbSf0UZMkwfVMvqvO/edit?usp=sharing&ouid=107488867288576312186&rtpof=true&sd=true)una presentación realizada durante mi estancia como interina para la UICN-Med (previa a a mi etapa como consultora externa), para que puedas conocer un poco más sobre las esponjas, así como la iniciativa MedMIS, de la que te hablo un poco más en otra publicación. 
 
 <!--EndFragment-->
