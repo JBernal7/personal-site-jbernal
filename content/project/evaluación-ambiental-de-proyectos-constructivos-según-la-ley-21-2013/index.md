@@ -33,7 +33,54 @@ A pesar de sus objetivos y beneficios, la Ley 21/2013 también presenta algunas 
 
 En mi experiencia en la evaluación ambiental, he trabajado proporcionando asistencia técnica en evaluación de impacto ambiental (análisis de expedientes en tramitación, análisis geoespacial, producción de mapas y redacción de resoluciones) para proyectos de construcción en España, en colaboración con el MITERD a través de Tragsatec. 
 
+
+
+<style>
+  .custom-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .custom-table th,
+  .custom-table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  .column1 {
+    width: 80%;
+  }
+  .column2 {
+    width: 20%;
+  }
+</style>
+
+<table class="custom-table">
+  <thead>
+    <tr>
+      <th class="column1">Proyecto</th>
+      <th class="column2">Publicación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="column1"><strong>Declaración de impacto ambiental</strong> del proyecto denominado “Central hidroeléctrica de bombeo Chira - Soria. Reformado del proyecto de construcción. Modificado II”, promovido por Red Eléctrica de España, S.A.U., afectando a los términos municipales de San Bartolomé de Tirajana y Mogán de la isla de Gran Canaria.</td>
+      <td class="column2"><a href= "http://www.gobiernodecanarias.org/boc/2021/167/004.html">Publicación</a></td>
+    </tr>
+
+  </tbody>
+</table>
+
 A continuación, presento una tabla que resume los principales proyectos en los que he trabajado, junto con enlaces a las publicaciones finales, en su caso. 
+
+
+
+
+
+
+
+
+
+
 
 <style>
   .custom-table {
