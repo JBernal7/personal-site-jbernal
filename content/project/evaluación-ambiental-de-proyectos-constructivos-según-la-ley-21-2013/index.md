@@ -162,7 +162,7 @@ L﻿os expedientes sin publicación en BOE pueden ser consultados a través de l
 
 <!--StartFragment-->
 
-Para ilustrar mi trabajo en estos proyectos, incluyo aquí algunas imágenes y enlaces a mapas y croquis que he realizado durante mi experiencia en evaluación ambiental de proyectos constructivos:
+Para ilustrar mi trabajo en estos proyectos, incluyo aquí algunas imágenes y enlaces a mapas y croquis que he realizado durante mi experiencia en evaluación ambiental de proyectos constructivos: --en proceso, vuelve más tarde!!
 
 La evaluación ambiental de proyectos constructivos es fundamental para asegurar un desarrollo sostenible y minimizar el impacto ambiental. A pesar de las limitaciones de la Ley 21/2013, su aplicación es crucial en la planificación y ejecución de proyectos en España. A través de mi experiencia en este campo, he contribuido al análisis y desarrollo de soluciones sostenibles para proyectos constructivos. Si deseas obtener más información sobre mi experiencia o sobre la evaluación ambiental de proyectos, no dudes en ponerse en contacto conmigo.
 
