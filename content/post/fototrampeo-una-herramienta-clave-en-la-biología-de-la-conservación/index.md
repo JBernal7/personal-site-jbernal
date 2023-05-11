@@ -1,6 +1,7 @@
 ---
 title: "Fototrampeo: Una Herramienta Clave en la Biología de la Conservación"
 date: 2023-02-21T16:16:08.713Z
+lastmod: 2023-02-21
 draft: false
 featured: false
 authors:
