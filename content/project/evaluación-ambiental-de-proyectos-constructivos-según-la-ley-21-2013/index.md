@@ -35,8 +35,6 @@ En mi experiencia en la evaluación ambiental, he trabajado proporcionando asist
 
 A continuación, presento una tabla que resume los principales proyectos en los que he trabajado, junto con enlaces a las publicaciones finales, en su caso. 
 
-
-
 <style>
   .custom-table {
     width: 100%;
@@ -66,7 +64,8 @@ A continuación, presento una tabla que resume los principales proyectos en los 
   <tbody>
     <tr>
       <td class="column1"><strong>Declaración de impacto ambiental</strong> del proyecto denominado “Central hidroeléctrica de bombeo Chira - Soria. Reformado del proyecto de construcción. Modificado II”, promovido por Red Eléctrica de España, S.A.U., afectando a los términos municipales de San Bartolomé de Tirajana y Mogán de la isla de Gran Canaria.</td>
-      <td class="column2"><a href= "http://www.gobiernodecanarias.org/boc/2021/167/004.html">BOC</a></td>
+      <td class="column2"><a href= "http://www.gobiernodecanarias.org/boc/2021/167/004.html">BOC
+</a></td>
     </tr>
 <tr>
       <td class="column1"><strong>Informe</strong> de calidad y alcance del análisis de suelos del proyecto “Desmantelamiento de la central térmica de Anllares (León)”</td>
@@ -163,6 +162,48 @@ L﻿os expedientes sin publicación en BOE pueden ser consultados a través de l
 <!--StartFragment-->
 
 Para ilustrar mi trabajo en estos proyectos, incluyo aquí algunas imágenes y enlaces a mapas y croquis que he realizado durante mi experiencia en evaluación ambiental de proyectos constructivos: --en proceso, vuelve más tarde!!
+
+<div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/maps/AerVitoria.jpg" class="d-block w-100" alt="Mapa 1">
+    </div>
+    <div class="carousel-item">
+      <img src="/maps/Ayoluengo.jpg" class="d-block w-100" alt="Mapa 2">
+    </div>
+<div class="carousel-item">
+      <img src="/maps/EDAR_Benaojan.jpg" class="d-block w-100" alt="Mapa 2">
+    </div>
+<div class="carousel-item">
+      <img src="/maps/EOLEntremarcos.jpg" class="d-block w-100" alt="Mapa 2">
+    </div>
+<div class="carousel-item">
+      <img src="/maps/GAGAU.jpg" class="d-block w-100" alt="Mapa 2">
+    </div>
+<div class="carousel-item">
+      <img src="/maps/Pirotecnia.jpg" class="d-block w-100" alt="Mapa 2">
+    </div>
+<div class="carousel-item">
+      <img src="/maps/RACSA.jpg" class="d-block w-100" alt="Mapa 2">
+    </div>
+  </div>
+<div class="carousel-item">
+      <img src="/maps/SantaMercedes.jpg" class="d-block w-100" alt="Mapa 2">
+    </div>
+  </div>
+<div class="carousel-item">
+      <img src="/maps/SantonaLaredo.jpg" class="d-block w-100" alt="Mapa 2">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Anterior</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Siguiente</span>
+  </button>
+</div>
 
 La evaluación ambiental de proyectos constructivos es fundamental para asegurar un desarrollo sostenible y minimizar el impacto ambiental. A pesar de las limitaciones de la Ley 21/2013, su aplicación es crucial en la planificación y ejecución de proyectos en España. A través de mi experiencia en este campo, he contribuido al análisis y desarrollo de soluciones sostenibles para proyectos constructivos. Si deseas obtener más información sobre mi experiencia o sobre la evaluación ambiental de proyectos, no dudes en ponerse en contacto conmigo.
 
