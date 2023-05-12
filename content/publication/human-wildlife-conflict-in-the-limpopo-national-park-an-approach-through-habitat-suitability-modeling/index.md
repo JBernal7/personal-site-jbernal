@@ -36,3 +36,4 @@ image:
   preview_only: false
 date: 2023-01-24T17:04:00.012Z
 ---
+![](heat_map_limpopo.png "http://dx.doi.org/10.13140/RG.2.2.29903.15520")
