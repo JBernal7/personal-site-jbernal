@@ -25,6 +25,7 @@ image:
   filename: sibes9.jpg
   focal_point: Smart
   preview_only: false
+  caption: "On board the Navicula. Jessica Bernal. "
 ---
 SIBES -Synoptic Intertidal Benthic Survey- is a monitoring scheme for sampling intertidal macrofauna across the Dutch Wadden Sea. It is partly funded by NAM for the ecological monitoring of the gas drilling areas in the eastern Wadden Sea.
 
