@@ -23,6 +23,9 @@ links:
   - url: https://portals.iucn.org/library/node/10384
     name: Guide
     icon_pack: fas
+  - url: https://drive.google.com/file/d/1FVbfIBmOFUVqFLB4yh5fAQaIZEonf5zy/view?usp=sharing
+    name: IUCN 2018
+    icon_pack: fas
 image:
   filename: capturamedmis.jpg
   focal_point: Smart
