@@ -12,6 +12,9 @@ links:
   - url: https://docs.google.com/presentation/d/127MvQNVL4c__Ni6LbSf0UZMkwfVMvqvO/edit?usp=sharing&ouid=107488867288576312186&rtpof=true&sd=true
     name: Presentación
     icon_pack: fas
+  - url: https://drive.google.com/file/d/1FVbfIBmOFUVqFLB4yh5fAQaIZEonf5zy/view?usp=sharing
+    name: IUCN 2018
+    icon_pack: fas
 image:
   filename: pexels-james-lee-4606063.jpg
   focal_point: Smart
