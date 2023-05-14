@@ -11,7 +11,7 @@ date: 2023-05-14T17:03:38.070Z
 date_end: 2025-12-30T23:00:00.000Z
 all_day: true
 links:
-  - url: http://icts.ebd.csic.es/es/camaras
+  - url: http://icts.ebd.csic.es/cameras
     name: Cameras
     icon_pack: fas
 event: "Doñana ICTS-EBD: A Deep Dive into Automated Data Infrastructure"
