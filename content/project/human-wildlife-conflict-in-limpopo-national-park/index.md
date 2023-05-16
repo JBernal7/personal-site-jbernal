@@ -29,6 +29,7 @@ image:
   filename: lafricana.jpg
   focal_point: Smart
   preview_only: false
+  caption: by Christopher Jameson
 ---
 <!--StartFragment-->
 
