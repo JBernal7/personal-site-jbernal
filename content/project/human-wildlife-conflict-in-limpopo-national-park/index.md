@@ -22,6 +22,9 @@ links:
   - url: https://qgiscloud.com/JBernal7/HWC_In_Limpopo/
     name: HWC-Limpopo Interactive Map
     icon_pack: fas
+  - url: https://arcg.is/1Gz5S9
+    name: Story Map
+    icon_pack: fas
 image:
   filename: lafricana.jpg
   focal_point: Smart
@@ -37,6 +40,6 @@ In addition to mapping interactions, we are conducting an evaluation of the effe
 
 Our project thrives on **collaboration** and partnership with IDAF-Forestry Consulting. By working closely with their experts, we can leverage their knowledge and expertise in forestry management to refine our models and strengthen the accuracy of our predictions. Additionally, we are actively collecting data using camera traps, enabling us to gather real-time information on wildlife behavior, distribution patterns, and their interactions with human activities. This collaborative effort, combined with field data collection, enhances the reliability of our models and empowers us to make well-informed decisions.
 
-For further information and to delve deeper into our research on mitigating human-wildlife conflict in Limpopo National Park, I invite readers to explore my recent publication available at [ResearchGate](http://dx.doi.org/10.13140/RG.2.2.19459.99361) and the interactive map available at [this link](https://qgiscloud.com/JBernal7/HWC_In_Limpopo/). This publication provides detailed insights into our methodology, findings, and recommendations for effective conservation strategies. We believe that by sharing our work, we can foster collaboration and knowledge exchange, ultimately contributing to the broader field of wildlife conservation and the coexistence of humans and animals in protected areas.  [](http://dx.doi.org/10.13140/RG.2.2.19459.99361)
+For further information and to delve deeper into our research on mitigating human-wildlife conflict in Limpopo National Park, I invite readers to explore my recent publication available at [ResearchGate](http://dx.doi.org/10.13140/RG.2.2.19459.99361) the [story map here](https://arcg.is/1Gz5S9), and the interactive map available at [this link](https://qgiscloud.com/JBernal7/HWC_In_Limpopo/). This publication provides detailed insights into our methodology, findings, and recommendations for effective conservation strategies. We believe that by sharing our work, we can foster collaboration and knowledge exchange, ultimately contributing to the broader field of wildlife conservation and the coexistence of humans and animals in protected areas.   [](http://dx.doi.org/10.13140/RG.2.2.19459.99361)
 
 <!--EndFragment-->
