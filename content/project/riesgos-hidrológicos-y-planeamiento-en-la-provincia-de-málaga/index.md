@@ -12,8 +12,10 @@ tags:
   - environment-planning
 links:
   - url: https://www.researchgate.net/publication/366138513_Hydrological_Risks_and_Planning_in_the_Province_of_Malaga?channel=doi&linkId=6392f72ce42faa7e75aca2e6&showFulltext=true#fullTextFileContent
-    name: Results
+    name: Thesis
     icon_pack: fas
+  - url: https://www.researchgate.net/publication/372675177_Outdated_regulations_and_institutional_vulnerability_Hydrological_risk_management_in_Malaga%27s_municipal_planning
+    name: Article
 image:
   filename: redhidromlg.jpg
   focal_point: Smart
