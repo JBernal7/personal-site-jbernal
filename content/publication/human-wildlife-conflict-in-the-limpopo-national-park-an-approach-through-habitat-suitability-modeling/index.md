@@ -39,11 +39,11 @@ date: 2023-01-24T17:04:00.012Z
 # - name: ""
 #   url: ""
 url_pdf: 'https://www.researchgate.net/publication/370132376_Human-wildlife_conflict_in_the_Limpopo_National_Park_An_approach_through_habitat_suitability_modeling'
-url_code: ''
+url_code: 'https://github.com/JBernal7/human-wildlife-conflict/tree/main/Rmd'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://storymaps.arcgis.com/stories/69752732289c47f48eaaca10d127fe8e'
 url_source: ''
 url_video: ''
 ---
