@@ -38,7 +38,7 @@ date: 2023-01-24T17:04:00.012Z
 # links:
 # - name: ""
 #   url: ""
-url_pdf: '[https://www.researchgate.net/publication/372675177_Outdated_regulations_and_institutional_vulnerability_Hydrological_risk_management_in_Malaga%27s_municipal_planning#fullTextFileContent](https://www.researchgate.net/publication/370132376_Human-wildlife_conflict_in_the_Limpopo_National_Park_An_approach_through_habitat_suitability_modeling)'
+url_pdf: 'https://www.researchgate.net/publication/370132376_Human-wildlife_conflict_in_the_Limpopo_National_Park_An_approach_through_habitat_suitability_modeling'
 url_code: ''
 url_dataset: ''
 url_poster: ''
