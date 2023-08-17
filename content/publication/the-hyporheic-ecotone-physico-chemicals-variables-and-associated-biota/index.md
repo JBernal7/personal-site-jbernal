@@ -27,4 +27,15 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2018-09-27T14:50:31.118Z
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 'https://www.researchgate.net/publication/351082541_The_hyporheic_ecotone_Physico_chemicals_variables_and_associated_biota'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
