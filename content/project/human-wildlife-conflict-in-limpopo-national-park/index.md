@@ -19,6 +19,9 @@ authors:
 tags:
   - hsm
 links:
+  - url: https://www.researchgate.net/publication/370132376_Human-wildlife_conflict_in_the_Limpopo_National_Park_An_approach_through_habitat_suitability_modeling/comments
+    name: Associated Publication
+    icon_pack: fas
   - url: https://qgiscloud.com/JBernal7/HWC_In_Limpopo/
     name: HWC-Limpopo Interactive Map
     icon_pack: fas
