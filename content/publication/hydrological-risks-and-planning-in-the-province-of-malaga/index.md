@@ -27,4 +27,16 @@ image:
   preview_only: false
   caption: Red hidrológica de Málaga diferenciada en subcuencas. J. Bernal.
 date: 2022-12-12T15:37:00.000Z
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 'https://www.researchgate.net/publication/366138513_Hydrological_Risks_and_Planning_in_the_Province_of_Malaga?channel=doi&linkId=6392f72ce42faa7e75aca2e6&showFulltext=true'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
