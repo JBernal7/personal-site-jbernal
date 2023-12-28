@@ -46,6 +46,8 @@ Our project thrives on **collaboration** and partnership with IDAF-Forestry Cons
 
 For further information and to delve deeper into our research on mitigating human-wildlife conflict in Limpopo National Park, I invite readers to explore my recent publication available at [ResearchGate](http://dx.doi.org/10.13140/RG.2.2.19459.99361) the [story map here](https://arcg.is/1Gz5S9), and the interactive map available at [this link](https://qgiscloud.com/JBernal7/HWC_In_Limpopo/). This publication provides detailed insights into our methodology, findings, and recommendations for effective conservation strategies. We believe that by sharing our work, we can foster collaboration and knowledge exchange, ultimately contributing to the broader field of wildlife conservation and the coexistence of humans and animals in protected areas. 
 
- </div>[](http://dx.doi.org/10.13140/RG.2.2.19459.99361)
+* (http://dx.doi.org/10.13140/RG.2.2.19459.99361)
+
+</div>
 
 <!--EndFragment-->
