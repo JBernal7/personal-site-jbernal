@@ -2,11 +2,16 @@
 title: "Addressing Human-Wildlife Conflict in Limpopo National Park "
 subtitle: A Collaborative Approach
 date: 2023-04-11T15:22:34.053Z
-summary: >-
-  <div style="text-align: justify;">
-
-
-  The collaborative project with IDAF-Forestry Consulting focuses on mitigating human-wildlife conflict in Limpopo National Park through a comprehensive approach. By combining advanced modeling techniques, robust data collection methods, and collaboration with local agents, we aim to predict the distribution of large herbivores and identify areas at a higher risk of conflict. Furthermore, evaluating existing mitigation strategies will provide valuable insights into their effectiveness, allowing us to refine and develop more successful measures. Through our collaborative efforts, we strive to promote the coexistence of wildlife and human communities, fostering a sustainable balance within this remarkable natural habitat.
+summary: The collaborative project with IDAF-Forestry Consulting focuses on
+  mitigating human-wildlife conflict in Limpopo National Park through a
+  comprehensive approach. By combining advanced modeling techniques, robust data
+  collection methods, and collaboration with local agents, we aim to predict the
+  distribution of large herbivores and identify areas at a higher risk of
+  conflict. Furthermore, evaluating existing mitigation strategies will provide
+  valuable insights into their effectiveness, allowing us to refine and develop
+  more successful measures. Through our collaborative efforts, we strive to
+  promote the coexistence of wildlife and human communities, fostering a
+  sustainable balance within this remarkable natural habitat.
 draft: false
 featured: false
 authors:
