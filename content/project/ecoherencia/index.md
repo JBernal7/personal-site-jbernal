@@ -1,5 +1,6 @@
 ---
 title: Ecoherencia
+subtitle: Un enfoque biológico en la restauración ecológica
 date: 2023-04-12T07:57:32.807Z
 draft: false
 featured: false
@@ -18,15 +19,22 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Ecoherencia SCA, es una cooperativa sin ánimo de lucro especializada en la educación ambiental en acción y en la recuperación de espacios degradados mediante el uso de técnicas de restauración ecológica, custodia del territorio, el fomento de la agroecología y el empleo de metodologías participativas.
+<!--StartFragment-->
 
-La finalidad de Ecoherencia es favorecer la creación de resiliencia, individual y colectiva, mediante la generación de propuestas positivas e integradoras, que aporten soluciones reales y visibles para mejorar nuestro entorno (ambiental, económico y social) desde una perspectiva holística. 
+Durante mis primeros años como bióloga, tuve la oportunidad de colaborar con Ecoherencia SCA, una cooperativa que se dedica con pasión a la educación ambiental y a la restauración de ecosistemas. Para mí esta experiencia fue fundamental para cimentar mi compromiso con la conservación ambiental y la restauración ecológica.
 
-“Eco” significa hogar, casa, donde hogar representa al individuo, grupo de personas, o el lugar donde ellas viven. Ecoherencia apunta hacia todos esos niveles de casa e invita a que las preservemos promoviendo el uso coherente para que puedan heredarse en buenas condiciones, para nosotros mismos el día de mañana y para las siguientes generaciones, yendo más allá de la sustentabilidad.
+En mi voluntariado con Ecoherencia, participé en proyectos de restauración ecológica, que incluyeron la mejora y mantenimiento de antiguas reforestaciones. Una parte significativa de mi trabajo se centró en la creación de hábitats para la avifauna y anfibios, como la apertura de prados herbáceos y la construcción de humedales. Estas actividades no solo enriquecieron mi comprensión de los ecosistemas, sino que también me permitieron apreciar la importancia de la educación ambiental y la participación comunitaria en la conservación.
 
-Ecoherencia trabaja en cuatro líneas principalmente:
+El equipo de Ecoherencia SCA trabaja en áreas clave como la educación ambiental, la restauración de ecosistemas y la agroecología, colaborando con organizaciones y centros de investigación y desarrollo. Mi experiencia con ellos reafirmó mi creencia en la necesidad de plantear enfoques integradores y participativos para resolver los desafíos ambientales.
 
-1. Educación y sensibilización ambiental: visión sistémica global y apostamos por una formación de calidad basada en la participación y la diversión. 
-2. Restauración de ecosistemas y custodia del territorio: actividades de conservación y restauración de la naturaleza en terrenos de propiedad privada (individual o de la administración). 
-3. Agroecología: agricultura sostenible donde tenemos en cuenta a la sociedad, fomentando el uso de las metodologías participativas en la implementación de iniciativas ecológicas. 
-4. I+D+i: estudio de plantas multifuncionales, que son aquellas de las cuales obtenemos varias funciones: alimenticias, medicinales o útiles en el huerto, entre otras.
+Esta colaboración, aunque anterior a mi especialización, fue sin duda un pilar en mi trayectoria profesional y reforzó mi dedicación hacia el estudio y la protección del medioambiente.
+
+Si quieres saber más sobre Ecoherencia, te invito a hacer clic en el enlace superior de esta página.
+
+Por otro lado, al hilo del tema de voluntariado, aquí te dejo un post con algunas reflexiones: 
+
+<https://hub-terra.com/2023/03/24/voluntariado-en-trabajos-de-conservacion-una-espada-de-doble-filo/> (Español)
+
+<https://hub-terra.com/2023/03/24/volunteering-in-conservation-work-a-double-edged-sword/> (English)
+
+<!--EndFragment-->
