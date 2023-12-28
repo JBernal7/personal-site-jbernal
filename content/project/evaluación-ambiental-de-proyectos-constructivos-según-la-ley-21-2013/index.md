@@ -24,6 +24,8 @@ image:
 ---
 <!--StartFragment-->
 
+<div style="text-align: justify;">
+
 La Evaluación Ambiental de proyectos constructivos es esencial para determinar el impacto potencial de dichos proyectos en el medioambiente y garantizar la sostenibilidad en el largo plazo. En España, la **Ley 21/2013, de 9 de diciembre, de evaluación ambiental,** regula la evaluación ambiental de proyectos y establece las bases para la realización de estudios de impacto ambiental. A pesar de su importancia, esta ley también presenta algunas limitaciones. 
 
 La [Ley 21/2013](https://www.boe.es/eli/es/l/2013/12/09/21/con) tiene como objetivo principal garantizar que los proyectos constructivos en España se realicen de manera sostenible y respetuosa con el medioambiente. Esta ley establece los procedimientos para la evaluación ambiental y la necesidad de llevar a cabo estudios de impacto ambiental antes de la aprobación de un proyecto. Algunos de los aspectos clave de la ley incluyen:
@@ -41,6 +43,8 @@ A pesar de sus objetivos y beneficios, la Ley 21/2013 también presenta algunas 
 En mi experiencia en la evaluación ambiental, he trabajado proporcionando asistencia técnica en evaluación de impacto ambiental (análisis de expedientes en tramitación, análisis geoespacial, producción de mapas y redacción de resoluciones) para proyectos de construcción en España, en colaboración con el MITERD a través de Tragsatec. 
 
 A continuación, presento una tabla que resume los principales proyectos en los que he trabajado, junto con enlaces a las publicaciones finales, en su caso. 
+
+
 
 <style>
   .custom-table {
@@ -169,6 +173,8 @@ L﻿os expedientes sin publicación en BOE pueden ser consultados a través de l
 <!--EndFragment-->
 
 <!--StartFragment-->
+
+<div style="text-align: justify;">
 
 Para ilustrar mi trabajo en estos proyectos, incluyo [aquí](https://drive.google.com/file/d/1rbMAom7s_2UCFOV0PxS5wm0W4z6WGVT5/view?usp=sharing) algunas imágenes de mapas y croquis que he realizado durante mi experiencia en evaluación ambiental de proyectos constructivos.
 
