@@ -36,6 +36,8 @@ image:
 ---
 <!--StartFragment-->
 
+<div style="text-align: justify;">
+
 T﻿his project carried out with [IDAF-Forestry Consulting](http://idaf.es/) and various stakeholders involved, is aimed at mitigating human-wildlife conflict in the Mozambican Limpopo National Park. Our primary objective is to develop effective tools and strategies based on ecosystem solutions to reduce conflicts between humans and three species of large herbivores within the park. By combining various methods and leveraging individual models, we seek to predict the potential distribution of these species and identify areas with a higher risk of conflict. Additionally, we are actively conducting fieldwork using camera traps and working closely with local agents to collect data and refine our models.
 
 A crucial aspect of our project involves **mapping interactions** between humans and wildlife within and around Limpopo National Park. Through the use of statistical analysis, specifically utilizing R programming, we can analyze the collected data and gain insights into areas where conflicts are more likely to occur. This information will enable us to develop targeted mitigation strategies and prioritize areas requiring immediate attention.
