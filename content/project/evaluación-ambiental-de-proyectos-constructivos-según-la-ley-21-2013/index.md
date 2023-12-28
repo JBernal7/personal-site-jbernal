@@ -44,6 +44,8 @@ En mi experiencia en la evaluación ambiental, he trabajado proporcionando asist
 
 A continuación, presento una tabla que resume los principales proyectos en los que he trabajado, junto con enlaces a las publicaciones finales, en su caso. 
 
+</div>
+
 <style>
   .custom-table {
     width: 100%;
