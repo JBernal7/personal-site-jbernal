@@ -31,10 +31,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
-<div style="text-align: justify;">
-
 La Iniciativa MedMIS fue un proyecto pionero en el monitoreo y asistencia de especies marinas invasoras en espacios marinos protegidos del Mediterráneo (AMPs). Las especies invasoras representan una de las mayores amenazas para la biodiversidad en las áreas marinas protegidas y en el mar Mediterráneo. A continuación, presento un resumen de mi experiencia trabajando en este proyecto y su relevancia para la conservación marina.
 
 MedMIS fue una plataforma de ciencia ciudadana que permitía a cualquier persona interesada en la conservación marina, como buceadores, técnicos marinos, gestores de AMPs o científicos, informarse sobre las especies invasoras y contribuir al monitoreo de las mismas. La plataforma estaba disponible tanto en la web como en aplicaciones gratuitas para Smartphone.
