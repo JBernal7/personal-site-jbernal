@@ -26,11 +26,11 @@ image:
 
 <div style="text-align: justify;">
 
-La Evaluación Ambiental de proyectos constructivos es esencial para determinar el impacto potencial de dichos proyectos en el medioambiente y garantizar la sostenibilidad en el largo plazo. En España, la Ley 21/2013 regula la evaluación ambiental de proyectos y establece las bases para la realización de estudios de impacto ambiental. A pesar de su importancia, esta ley también presenta algunas limitaciones. 
+La Evaluación Ambiental de proyectos constructivos es esencial para determinar el impacto potencial de dichos proyectos en el medioambiente y garantizar la sostenibilidad en el largo plazo. En España, la **Ley 21/2013, de 9 de diciembre, de evaluación ambiental,** regula la evaluación ambiental de proyectos y establece las bases para la realización de estudios de impacto ambiental. A pesar de su importancia, esta ley también presenta algunas limitaciones. 
 
-La Ley 21/2013 tiene como objetivo principal garantizar que los proyectos constructivos en España se realicen de manera sostenible y respetuosa con el medioambiente. Esta ley establece los procedimientos para la evaluación ambiental y la necesidad de llevar a cabo estudios de impacto ambiental antes de la aprobación de un proyecto. Algunos de los aspectos clave de la ley incluyen:
+La [Ley 21/2013](https://www.boe.es/eli/es/l/2013/12/09/21/con) tiene como objetivo principal garantizar que los proyectos constructivos en España se realicen de manera sostenible y respetuosa con el medioambiente. Esta ley establece los procedimientos para la evaluación ambiental y la necesidad de llevar a cabo estudios de impacto ambiental antes de la aprobación de un proyecto. Algunos de los aspectos clave de la ley incluyen:
 
-* Identificación de los impactos potenciales en el medio ambiente.
+* Identificación de los impactos potenciales en el medioambiente.
 * Establecimiento de medidas de prevención, mitigación y compensación de impactos negativos.
 * Consulta pública y participación de la ciudadanía en el proceso de evaluación.
 
@@ -174,6 +174,6 @@ L﻿os expedientes sin publicación en BOE pueden ser consultados a través de l
 
 Para ilustrar mi trabajo en estos proyectos, incluyo [aquí](https://drive.google.com/file/d/1rbMAom7s_2UCFOV0PxS5wm0W4z6WGVT5/view?usp=sharing) algunas imágenes de mapas y croquis que he realizado durante mi experiencia en evaluación ambiental de proyectos constructivos.
 
-La evaluación ambiental de proyectos constructivos es fundamental para asegurar un desarrollo sostenible y minimizar el impacto ambiental. A pesar de las limitaciones de la Ley 21/2013, su aplicación es crucial en la planificación y ejecución de proyectos en España. A través de mi experiencia en este campo, he contribuido al análisis y desarrollo de soluciones sostenibles para proyectos constructivos. Si deseas obtener más información sobre mi experiencia o sobre la evaluación ambiental de proyectos, no dudes en ponerte en contacto conmigo.
+La evaluación ambiental de proyectos constructivos es fundamental para asegurar un desarrollo sostenible y minimizar el impacto ambiental. A pesar de las limitaciones de la Ley 21/2013, su aplicación es fundamental en la planificación y ejecución de proyectos en España. A través de mi experiencia en este campo, he contribuido al análisis y desarrollo de soluciones sostenibles para proyectos constructivos. Si deseas obtener más información sobre mi experiencia o sobre la evaluación ambiental de proyectos, no dudes en ponerte en contacto conmigo o con mi equipo de [Hub-Terra](https://hub-terra.com/inicio/). 
 
 <!--EndFragment-->
