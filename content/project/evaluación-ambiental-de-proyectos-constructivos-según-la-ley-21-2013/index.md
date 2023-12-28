@@ -22,8 +22,6 @@ image:
     https://www.pexels.com/es-es/foto/molinos-de-viento-en-la-orilla-del-mar-ba\
     jo-nubes-blancas-1108814/"
 ---
-<!--StartFragment-->
-
 <div style="text-align: justify;">
 
 La Evaluación Ambiental de proyectos constructivos es esencial para determinar el impacto potencial de dichos proyectos en el medioambiente y garantizar la sostenibilidad en el largo plazo. En España, la **Ley 21/2013, de 9 de diciembre, de evaluación ambiental,** regula la evaluación ambiental de proyectos y establece las bases para la realización de estudios de impacto ambiental. A pesar de su importancia, esta ley también presenta algunas limitaciones. 
@@ -44,10 +42,7 @@ En mi experiencia en la evaluación ambiental, he trabajado proporcionando asist
 
 A continuación, presento una tabla que resume los principales proyectos en los que he trabajado, junto con enlaces a las publicaciones finales, en su caso. 
 
-<!--EndFragment-->
-
 <!--StartFragment-->
-
 
 <style>
   .custom-table {
