@@ -25,6 +25,8 @@ image:
 ---
 <!--StartFragment-->
 
+<div style="text-align: justify;">
+
 Las esponjas, con más de 500 millones de años de historia, desempeñan un papel crucial en la estructuración de hábitats en el mar Mediterráneo. En los últimos años, la recolección de esponjas en la región ha aumentado significativamente, lo que, sumado a las mortalidades por epidemias y las amenazas derivadas del cambio global, hace necesaria una evaluación y regulación de su situación en el Mediterráneo. Como consultora de la UICN, tuve la oportunidad de coordinar y asesorar en la primera **Evaluación de Porifera a nivel mediterráneo para la Lista Roja (IUCN Red List)**.
 
 En junio de 2017, durante la "10th World Sponge Conference" celebrada en Galway, la UICN-Med y expertos en esponjas acordaron llevar a cabo la primera evaluación regional de esponjas para la Lista Roja de la UICN. Como coordinadora y asesora en este proyecto, mis responsabilidades incluyeron:
