@@ -22,6 +22,8 @@ image:
   preview_only: false
   caption: Jessica Bernal. Calidris canutus (red knot). CC BY-NC-SA 2.0.
 ---
+<div style="text-align: justify;">
+
 Team Piersma is a group of researchers working with Prof. Dr. Theunis Piersma under the umbrella of Global Flyway Network, a foundation under Dutch law. Their home bases are the University of Groningen, NIOZ Royal Netherlands Institute for Sea Research, and associated institutes along the flyways where the team conducts studies on shorebirds and spoonbills.
 
 The research I was involved in here primarily focused on unraveling causes and consequences of consistent among-individual variation in migratory behavior in Red Knots (*Calidris canutus*). I study the ecology of these migratory birds, including catching, ringing, georeferenced monitoring, status and distribution of food sources, and care and management of captive groups.
