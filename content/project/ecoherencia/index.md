@@ -6,7 +6,6 @@ draft: false
 featured: false
 authors:
   - admin
-  - Ecoherencia
 tags:
   - people-and-nature
 external_link: ""
