@@ -1,15 +1,11 @@
 ---
 title: SIBES Project
 date: 2023-04-11T16:53:17.339Z
-summary: SIBES (Synoptic Intertidal BEnthic Survey) is a systematic long-term
-  ecological time series programme for organisms that live in or on intertidal
-  mudflats, the so-called benthos. Every year the abundances and distribution of
-  benthic organisms is mapped across the entire Dutch Wadden Sea. The systematic
-  monitoring data are an essential component of many studies like WATLAS
-  explaining how animals (birds, fish) distribute, and how their survival
-  prospects depend on habitat use. SIBES is the largest annual sampling campaign
-  in the world, setting the standard for the way benthic organisms are sampled
-  on mudflats worldwide.
+summary: >-
+  <div style="text-align: justify;">
+
+
+  SIBES (Synoptic Intertidal Benthic Survey) is a systematic long-term ecological time series programme for organisms that live in or on intertidal mudflats, the so-called benthos. Every year the abundances and distribution of benthic organisms is mapped across the entire Dutch Wadden Sea. The systematic monitoring data are an essential component of many studies like WATLAS explaining how animals (birds, fish) distribute, and how their survival prospects depend on habitat use. SIBES is the largest annual sampling campaign in the world, setting the standard for the way benthic organisms are sampled on mudflats worldwide.
 draft: false
 featured: false
 authors:
