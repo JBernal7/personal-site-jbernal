@@ -24,6 +24,8 @@ image:
 ---
 <!--StartFragment-->
 
+<div style="text-align: justify;">
+
 La Evaluación Ambiental de proyectos constructivos es esencial para determinar el impacto potencial de dichos proyectos en el medioambiente y garantizar la sostenibilidad en el largo plazo. En España, la Ley 21/2013 regula la evaluación ambiental de proyectos y establece las bases para la realización de estudios de impacto ambiental. A pesar de su importancia, esta ley también presenta algunas limitaciones. 
 
 La Ley 21/2013 tiene como objetivo principal garantizar que los proyectos constructivos en España se realicen de manera sostenible y respetuosa con el medioambiente. Esta ley establece los procedimientos para la evaluación ambiental y la necesidad de llevar a cabo estudios de impacto ambiental antes de la aprobación de un proyecto. Algunos de los aspectos clave de la ley incluyen:
@@ -162,7 +164,9 @@ A continuación, presento una tabla que resume los principales proyectos en los 
   </tbody>
 </table>
 
-L﻿os expedientes sin publicación en BOE pueden ser consultados a través de la web proyecto SABIA: https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/evaluacion-ambiental/default.aspx
+L﻿os expedientes sin publicación en BOE pueden ser consultados a través de la web proyecto SABIA: 
+
+* https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/evaluacion-ambiental/default.aspx
 
 <!--EndFragment-->
 
