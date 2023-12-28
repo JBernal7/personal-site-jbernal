@@ -27,3 +27,5 @@ At **Hub-Terra**, we are dedicated to advancing our understanding of species and
 We envisage a world where **scientific breakthroughs** are the cornerstone of strategies to protect and restore nature. Our belief is strong in the positive impact we can achieve in the natural world, extending **beyond remote sensing** to encompass advanced **spatial modelling**, geospatial data analysis, and active collaboration with various stakeholders.
 
 Our foundational values are **collaboration, innovation, and dedication to conservation**. Hub-Terra places a high priority on working alongside clients, partners, and fellow scientists to realise shared objectives. We are constantly pushing the limits of technological and methodological innovation, with the welfare of our ecosystems always at the forefront of our endeavours.
+
+Want to know more? Come and visit me and my team at [Hub-Terra](https://hub-terra.com/about/).
