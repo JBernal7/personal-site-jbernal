@@ -31,7 +31,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<!--StartFragment-->
+
 
 <div style="text-align: justify;">
 
@@ -43,10 +43,6 @@ El proyecto, que contaba con el respaldo del [Ministerio para la Transición Eco
 
 Durante mi tiempo en la Iniciativa MedMIS, me encargué de la revisión bibliográfica y reportes del período 2014-2018, análisis de datos SIG, tareas organizativas y de comunicación del programa de especies exóticas invasoras. Además, asistí en la organización de un taller en Chipre orientado a la gestión de las especies invasoras en las AMPs. 
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 Aunque el proyecto MedMIS ha finalizado, hay otros proyectos en marcha que también se enfocan en el monitoreo y conservación de las especies marinas invasoras. Algunos de estos proyectos incluyen:
 
 1. Life INVASAQUA: <https://lifeinvasaqua.com/> Este proyecto tiene como objetivo mejorar la prevención, detección y mitigación de los impactos de las especies exóticas invasoras en los ecosistemas acuáticos de la Península Ibérica, incluidas las aguas del mar Mediterráneo.
@@ -55,10 +51,6 @@ Aunque el proyecto MedMIS ha finalizado, hay otros proyectos en marcha que tambi
 4. MedPAN: <https://medpan.org/> MedPAN es una red de áreas marinas protegidas en el Mediterráneo que se enfoca en la conservación de la biodiversidad y la mitigación de amenazas como las especies invasoras.
 
 Estos proyectos e iniciativas representan algunos de los esfuerzos actuales para monitorear y controlar las especies invasoras en el mar Mediterráneo. La colaboración entre científicos, gestores de áreas protegidas y ciudadanos interesados es esencial para enfrentar este desafío y proteger la biodiversidad en la región.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 En resumen, la Iniciativa MedMIS fue un proyecto innovador que permitió a la comunidad científica y al público en general participar activamente en el monitoreo y asistencia de especies marinas invasoras en espacios marinos protegidos del Mediterráneo. A través de la plataforma, se generó una gran cantidad de información útil para la conservación marina y se fomentó la colaboración entre profesionales y ciudadanos interesados en la protección de los ecosistemas marinos.
 
@@ -69,5 +61,3 @@ Si deseas contribuir al monitoreo y conservación de las especies marinas invaso
 Además de la información proporcionada en este resumen, te dejo una pequeña [presentación](https://docs.google.com/presentation/d/127MvQNVL4c__Ni6LbSf0UZMkwfVMvqvO/edit?usp=sharing&ouid=107488867288576312186&rtpof=true&sd=true) que ilustra resumidamente mi experiencia en este proyecto, y [este enlace](https://portals.iucn.org/library/node/10384) a una guía que sirvió de inspiración para el mismo y estoy segura que te será utilidad. 
 
 En mi web personal, seguiré compartiendo información sobre mi experiencia en iniciativas y otros proyectos relacionados con la conservación marina. Si tienes preguntas o deseas obtener más información, no dudes en ponerse en contacto conmigo. Juntos, podemos trabajar para proteger nuestros valiosos ecosistemas marinos.
-
-<!--EndFragment-->
