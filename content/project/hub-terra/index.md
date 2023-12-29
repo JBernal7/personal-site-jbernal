@@ -23,7 +23,7 @@ image:
 <!--StartFragment-->
 <div style="text-align: justify;">
 
-At **Hub-Terra**, we are dedicated to advancing our understanding of species and habitats through a diverse array of cutting-edge technologies and methodologies. Our team commits to unearthing new insights and providing actionable information that can drive conservation strategies forward.
+At **Hub-Terra**, we are dedicated to advancing our understanding of species and ecosystems through a diverse array of cutting-edge technologies and methodologies. Our team commits to unearthing new insights and providing actionable information that can drive conservation strategies forward.
 
 We envisage a world where **scientific breakthroughs** are the cornerstone of strategies to protect and restore nature. Our belief is strong in the positive impact we can achieve in the natural world, extending **beyond remote sensing** to encompass advanced **spatial modelling**, geospatial data analysis, and active collaboration with various stakeholders.
 
