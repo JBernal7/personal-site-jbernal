@@ -64,7 +64,7 @@ email: ""
 
 <div style="text-align: justify;">
 
-Hi, I'm Jessica Bernal,  a **Spanish biologist** with **geomatics, spatial modeling, and environmental law** expertise. My passion for macroecology and advanced spatial modeling drives my work in environmental consulting services and as a co-leader of **[Hub-Terra](https://www.hub-terra.com/)**, focusing on geospatial solutions for conservation, land management, and natural resource planning. As a PhD candidate at the University of Córdoba, I am also actively engaged in the **[DesFutur](https://jessica-bernal.com/project/desfutur/)** project, delving into the spatiotemporal dynamics of **invasive species** in the context of desertification in the southeast of the Iberian Peninsula.
+Hi, I'm Jessica Bernal,  a **Spanish biologist** with **geomatics, spatial modelling, and environmental law** expertise. My passion for macroecology and advanced spatial modelling drives my work in environmental consulting services and as a co-leader of **[Hub-Terra](https://www.hub-terra.com/)**, focusing on geospatial solutions for conservation, land management, and natural resource planning. As a PhD candidate at the University of Córdoba, I am also actively engaged in the **[DesFutur](https://jessica-bernal.com/project/desfutur/)** project, delving into the spatiotemporal dynamics of **invasive species** in the context of desertification in the southeast of the Iberian Peninsula.
 
 Explore my research, projects, and publications, and delve into my blog posts and SciComm section for insights on environmental topics in English or Spanish. Connect with me on ResearchGate, LinkedIn, and Github, or reach out for inquiries and collaborations.
 
