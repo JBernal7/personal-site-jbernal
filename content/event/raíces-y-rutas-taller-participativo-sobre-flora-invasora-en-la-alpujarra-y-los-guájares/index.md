@@ -5,8 +5,8 @@ abstract: Una jornada de trabajo colaborativo y aprendizaje, centrada en el
   manejo de flora invasora en el contexto de la desertificación, con sesiones
   interactivas, debates y talleres prácticos.
 location: Órgiva, Granada
-date: 2024-01-26T08:00:42.305Z
-date_end: 2024-01-26T15:30:00.000Z
+date: 2024-01-26T09:00:42.305Z
+date_end: 2024-01-26T16:30:00.000Z
 all_day: false
 links:
   - url: https://sites.google.com/view/desfutur-raicesyrutas/agenda
