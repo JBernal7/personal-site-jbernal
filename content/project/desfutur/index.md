@@ -9,11 +9,21 @@ authors:
 tags:
   - hsm
   - initiatives
-  - ""
+  - people-and-nature
+  - macroecology
 links:
   - icon_pack: fas
     name: DesFutur Website
     url: https://desfutur.github.io/web/
+  - url: "https://fundacion-biodiversidad.es/proyecto_prtr/estudio-de-la-dinamica-e\
+      spaciotemporal-de-la-desertificacion-en-el-sudeste-de-la-peninsula-iberic\
+      a-desfutur/ "
+    name: Fundación Biodiversidad Project Page
+    icon_pack: fas
+  - url: "https://www.uco.es/ucci/es/noticias-gen/item/4247-la-uco-estudiara-las-pr\
+      oblematicas-que-desencadenan-la-desertificacion "
+    name: UCO Project Page
+    icon_pack: fas
 image:
   filename: desfuturjess3.png
   focal_point: Smart
