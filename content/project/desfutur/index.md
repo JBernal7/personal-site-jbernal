@@ -92,3 +92,5 @@ Las proyecciones futuras sobre la expansión de especies invasoras son clave par
 En un espíritu de colaboración activa, invitamos a gestores del territorio, gestores de carreteras, planificadores urbanos, agricultores y otros agentes locales a participar en talleres y sesiones informativas que organizaremos. Estos eventos servirán de plataforma para discutir nuestros hallazgos, explorar aplicaciones prácticas y co-crear estrategias de gestión adaptadas a las necesidades específicas de nuestras comunidades y ecosistemas. Este llamado a la acción busca unir esfuerzos y experiencias para enfrentar los retos de las especies invasoras, trabajando juntos hacia un futuro donde la integridad de nuestros ecosistemas se refuerce para las generaciones futuras.  
 
 <!--EndFragment-->
+
+![](vice3-mterd-fb-prtr-next_bandera_blanco.png)
