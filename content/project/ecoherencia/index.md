@@ -22,7 +22,7 @@ image:
 
 <div style="text-align: justify;">
 
-Durante mis primeros años como bióloga, tuve la oportunidad de colaborar con **Ecoherencia SCA**, una cooperativa que se dedica con pasión a la **educación ambiental** y a la restauración de ecosistemas. Para mí esta experiencia fue fundamental para cimentar mi compromiso con la conservación ambiental y la restauración ecológica.
+Durante mis primeros años como bióloga, tuve la oportunidad de colaborar con **Ecoherencia SCA**, una cooperativa que se dedica con pasión a la **educación ambiental** y a la **restauración de ecosistemas**. Para mí esta experiencia fue fundamental para cimentar mi compromiso con la conservación ambiental y la restauración ecológica.
 
 En mi voluntariado con Ecoherencia, participé en proyectos de **restauración ecológica**, que incluyeron la mejora y mantenimiento de antiguas reforestaciones. Una parte significativa de mi trabajo se centró en la creación de hábitats para la avifauna y anfibios, como la apertura de prados herbáceos y la construcción de humedales. Estas actividades no solo enriquecieron mi comprensión de los ecosistemas, sino que también me permitieron apreciar la importancia de la educación ambiental y la participación comunitaria en la conservación.
 
