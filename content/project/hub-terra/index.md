@@ -1,6 +1,6 @@
 ---
 title: Hub-Terra
-subtitle: Transforming data into actionable insights for habitat management
+subtitle: Transforming data into actionable insights for ecosystem management
 date: 2023-04-12T08:36:59.239Z
 draft: false
 featured: false
