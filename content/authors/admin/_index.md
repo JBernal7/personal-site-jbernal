@@ -1,71 +1,25 @@
 ---
-# Display name
 title: Jessica Bernal
-
-# Full name (for SEO)
-first_name: Jessica
-last_name: Bernal Borrego
-
-# Status emoji
-status:
-  icon: 🦥
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: Biologist | Geomatics and Spatial Modelling Specialist
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: University of Córdoba
-    url: https://www.uco.es/
-  
- # - name: University of Málaga
- #   url: https://www.uma.es/
-    
-  - name: Hub-Terra
-    url: https://hub-terra.com
-
-# Short bio (displayed in user profile at end of posts)
-bio: A Spanish Biologist passionate about geomatics, spatial modeling, and macroecological processes.
-
-# Interests to show in About widget
+bio: A Spanish Biologist passionate about geomatics, spatial modeling, and
+  macroecological processes.
 interests:
   - Environmental Science
   - Macroecology
   - Remote-Sensing
   - GIS
-
-# Education to show in About widget
-education:
-  courses:
-    - course: MSc in Geomatics, Remote Sensing and Spatial Models Applied to Forest Management
-      institution: University of Córdoba
-      year: 2022
-    - course: MSc in Territorial, Urban and Environmental Planning
-      institution: University of Málaga
-      year: 2021
-    - course: BSc in Biological Sciences
-      institution: University of Málaga
-      year: 2018
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: /#contact
+  - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Jessica-Bernal-Borrego
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=2DS39l8AAAAJ&hl=es 
+    link: https://scholar.google.com/citations?user=2DS39l8AAAAJ&hl=es
   - icon: github
     icon_pack: fab
     link: https://github.com/JBernal7
@@ -79,25 +33,41 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-2800-7733
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  #- icon: cv
-  #  icon_pack: ai
-  #  link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+organizations:
+  - name: University of Córdoba
+    url: https://www.uco.es/
+  - name: Hub-Terra
+    url: https://hub-terra.com
+education:
+  courses:
+    - course: MSc in Geomatics, Remote Sensing and Spatial Models Applied to Forest
+        Management
+      institution: University of Córdoba
+      year: 2022
+    - course: MSc in Territorial, Urban and Environmental Planning
+      institution: University of Málaga
+      year: 2021
+    - course: BSc in Biological Sciences
+      institution: University of Málaga
+      year: 2018
+superuser: true
+status:
+  icon: 🦥
+last_name: Bernal Borrego
 highlight_name: true
+first_name: Jessica
+email: ""
 ---
-
 # Welcome to Jessica Bernal's site🦥
+
+<!--StartFragment-->
+
+<div style="text-align: justify;">
 
 Hi, I'm Jessica Bernal,  a **Spanish biologist** with **geomatics, spatial modeling, and environmental law** expertise. Passionate about macroecology and habitat suitability modeling, I offer environmental consulting services and co-lead [Hub-Terra](https://www.hub-terra.com/), focusing on geospatial solutions for conservation, land management, and natural resource planning.
 
 Explore my research, projects, and publications, and delve into my blog posts and SciComm section for insights on environmental topics in English or Spanish. Connect with me on ResearchGate, LinkedIn, and Github, or reach out for inquiries and collaborations.
 
 Thank you for stopping by! 
-{style="text-align: justify;"}
+
+<!--EndFragment-->
