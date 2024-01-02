@@ -36,3 +36,5 @@ image:
 Este taller participativo tiene como objetivo reunir a expertos, gestores de recursos naturales, agricultores y otros actores locales para abordar la problemática de las plantas invasoras en la Alpujarra y los Guájares. A través de actividades de mapeo participativo y discusiones, los participantes compartirán conocimientos y experiencias, contribuyendo a la creación de mapas detallados de la distribución actual de especies clave como *Ailanthus altissima*, *Opuntia* spp. y *Arundo donax*. Además, se compararán estos datos con modelos científicos de distribución de especies para entender mejor los patrones de dispersión y las áreas de mayor riesgo.
 
 <!--EndFragment-->
+
+![](vice3-mterd-fb-prtr-next_bandera_color.png)
