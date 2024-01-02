@@ -41,8 +41,6 @@ Como parte de mi doctorado en la Universidad de Córdoba, estoy inmersa en el pr
 
 <div style="text-align: justify;">
 
-
-
 ## Resumen del Proyecto DesFutur
 
 El proyecto DesFutur, liderado por la Universidad de Córdoba, se centra en contribuir al entendimiento y mitigación de la desertificación. Nuestra investigación se enfoca en evaluar la vulnerabilidad y capacidad de recuperación de los ecosistemas forestales del sudeste de la Península Ibérica frente al cambio climático. Identificamos puntos críticos y señales de alerta temprana, analizando la dinámica de tres factores fundamentales que impulsan la desertificación: el **decaimiento forestal** causado por eventos climáticos extremos, las **invasiones biológicas,** y los **incendios forestales**.
@@ -111,4 +109,4 @@ Para estar al tanto de estos eventos y otras iniciativas relacionadas con el pro
 
 <!--EndFragment-->
 
-![](vice3-mterd-fb-prtr-next_bandera_blanco.png)
+![](vice3-mterd-fb-prtr-next_bandera_color.png)
