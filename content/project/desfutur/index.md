@@ -105,7 +105,7 @@ Para estar al tanto de estos eventos y otras iniciativas relacionadas con el pro
 
 * Visitar regularmente la **página [web](https://desfutur.github.io/web/) del proyecto** DesFutur: Aquí encontrarás actualizaciones, información sobre eventos próximos y recursos relevantes.
 * Consultar mi sección **[SciComm](https://jessica-bernal.com/#talks)** en esta web: Donde compartiré información detallada, análisis y reflexiones sobre los avances del proyecto, así como detalles sobre talleres y actividades de divulgación.
-* Contactar directamente para recibir actualizaciones: Si estás interesado en recibir información específica sobre próximos eventos o colaboraciones, no dudes en enviarnos un correo electrónico.
+* Contactar directamente para recibir actualizaciones: Si estás interesado en recibir información específica sobre próximos eventos o colaboraciones, no dudes en enviarnos un correo electrónico: z12beboj@uco.es 
 
 <!--EndFragment-->
 
