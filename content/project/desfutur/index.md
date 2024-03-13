@@ -97,15 +97,15 @@ Las proyecciones futuras sobre la expansión de especies invasoras son clave par
 
 ## ¿Eres un Gestor o Actor Local Listo para Marcar la Diferencia?
 
-En un espíritu de colaboración activa, invitamos a gestores del territorio, gestores de carreteras, planificadores urbanos, agricultores y otros agentes locales a participar en talleres y sesiones informativas que organizaremos. Estos eventos servirán de plataforma para discutir nuestros hallazgos, explorar aplicaciones prácticas y co-crear estrategias de gestión adaptadas a las necesidades específicas de nuestras comunidades y ecosistemas. Este llamado a la acción busca unir esfuerzos y experiencias para enfrentar los retos de las especies invasoras, trabajando juntos hacia un futuro donde la integridad de nuestros ecosistemas se refuerce para las generaciones futuras.  
+En un espíritu de colaboración activa, invitamos a gestores del territorio, gestores de carreteras, planificadores urbanos, agricultores y otros agentes locales a participar en talleres y sesiones informativas que organizamos. Estos eventos sirven de plataforma para discutir nuestros hallazgos, explorar aplicaciones prácticas y co-crear estrategias de gestión adaptadas a las necesidades específicas de nuestras comunidades y ecosistemas. Este llamado a la acción busca unir esfuerzos y experiencias para enfrentar los retos de las especies invasoras, trabajando juntos hacia un futuro donde la integridad de nuestros ecosistemas se refuerce para las generaciones futuras.  
 
 ### Mantente Informado y Conectado
 
 Para estar al tanto de estos eventos y otras iniciativas relacionadas con el proyecto DesFutur, te animo a:
 
-* Visitar regularmente la **página [web](https://desfutur.github.io/web/) del proyecto** DesFutur: Aquí encontrarás actualizaciones, información sobre eventos próximos y recursos relevantes .
+* Visitar regularmente la **página [web](https://desfutur.github.io/web/) del proyecto** DesFutur: Aquí encontrarás actualizaciones, información sobre eventos próximos y recursos relevantes.
 * Consultar mi sección **[SciComm](https://jessica-bernal.com/#talks)** en esta web: Donde compartiré información detallada, análisis y reflexiones sobre los avances del proyecto, así como detalles sobre talleres y actividades de divulgación.
-* Contactarnos directamente para recibir actualizaciones: Si estás interesado en recibir información específica sobre próximos eventos o colaboraciones, no dudes en enviarnos un correo electrónico.
+* Contactar directamente para recibir actualizaciones: Si estás interesado en recibir información específica sobre próximos eventos o colaboraciones, no dudes en enviarnos un correo electrónico.
 
 <!--EndFragment-->
 
