@@ -24,6 +24,9 @@ links:
       oblematicas-que-desencadenan-la-desertificacion "
     name: UCO Project Page
     icon_pack: fas
+  - url: https://forms.gle/GaLBE7yTxGPPU59B6
+    name: Expresiones de Interés
+    icon_pack: fas
 image:
   filename: desfuturjess3.png
   focal_point: Smart
