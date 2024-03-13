@@ -13,7 +13,7 @@ links:
     name: Agenda
     icon_pack: fas
   - url: https://forms.gle/b65NSKQSrJpgCt3MA
-    name: Expresiones de interés
+    name: Expresiones de interés para futuros eventos
     icon_pack: fas
 event: Taller Participativo
 event_url: https://sites.google.com/view/desfutur-raicesyrutas/
