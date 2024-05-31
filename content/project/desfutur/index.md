@@ -70,7 +70,7 @@ La región sureste de la Península Ibérica se encuentra en una encrucijada eco
 
 ## Objetivos de nuestra investigación
 
-Nuestra investigación se enfoca en desentrañar la **dinámica espacio-temporal** de especies invasoras como el ailanto (*Ailanthus altissima*), el rabo de gato (*Pennisetum setaceum*), la caña común (*Arundo donax*), y diversas especies del género Opuntia. Mediante un análisis minucioso, nuestro objetivo es identificar los patrones y procesos clave que determinan la invasibilidad de los hábitats y la efectividad de las rutas de dispersión de estas especies. Este conocimiento nos permite desarrollar estrategias de gestión ambiental robustas y perdurables, destinadas a mitigar el impacto adverso de las especies invasoras en nuestros ecosistemas y comunidades. 
+Nuestra investigación se enfoca en desentrañar la **dinámica espacio-temporal** de especies invasoras como el ailanto (*Ailanthus altissima*), el rabo de gato (*Cenchrus setaseus*), la caña común (*Arundo donax*), y diversas especies del género Opuntia. Mediante un análisis minucioso, nuestro objetivo es identificar los patrones y procesos clave que determinan la invasibilidad de los hábitats y la efectividad de las rutas de dispersión de estas especies. Este conocimiento nos permite desarrollar estrategias de gestión ambiental robustas y perdurables, destinadas a mitigar el impacto adverso de las especies invasoras en nuestros ecosistemas y comunidades. 
 
 <!--EndFragment-->
 
