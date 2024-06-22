@@ -38,7 +38,7 @@ Una de las lecciones más impactantes de esta experiencia fue ver cómo la infor
 
 Los retos que enfrentamos en la gestión de especies invasoras son complejos y multifacéticos. Sin embargo, eventos como este demuestran que el diálogo entre científicos y comunidades puede facilitar soluciones innovadoras y sostenibles. Estoy más convencida que nunca de que **nuestro progreso depende de estos encuentros**, donde la voz de cada individuo se valora y potencia.
 
-Alentada por esta experiencia, insto a mis colegas científicos y a todos los interesados en la conservación del medioambiente a buscar y valorar estos espacios de diálogo. Solo a través de nuestro compromiso conjunto podemos esperar abordar efectivamente las amenazas a nuestra biodiversidad.
+Alentada por esta experiencia, insto a mis colegas científicos y a todos los interesados en la conservación del medioambiente a buscar y valorar estos espacios de diálogo. Solo a través de nuestro compromiso conjunto podemos esperar abordar efectivamente las amenazas a nuestra biodiversidad y, por ende, a nuestra calidad de vida.
 
 Mi sincero agradecimiento a todos los que participaron y contribuyeron al éxito de esta charla, especialmente a **Esther Gutiérrez** por su invitación y organización, a **Borja Nebot** por su indispensable perspectiva y compromiso, y por supuesto, a mis compañeras **Sara Navarro** y **Katherine Onoszko** por estar ahí.
 
