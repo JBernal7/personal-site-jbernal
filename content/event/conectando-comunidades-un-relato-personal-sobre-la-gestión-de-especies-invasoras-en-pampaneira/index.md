@@ -40,8 +40,12 @@ Los retos que enfrentamos en la gestión de especies invasoras son complejos y m
 
 Alentada por esta experiencia, insto a mis colegas científicos y a todos los interesados en la conservación del medioambiente a buscar y valorar estos espacios de diálogo. Solo a través de nuestro compromiso conjunto podemos esperar abordar efectivamente las amenazas a nuestra biodiversidad.
 
-Mi sincero agradecimiento a todos los que participaron y contribuyeron al éxito de esta charla, especialmente a **Esther Gutiérrez** por su invitación y organización, y a **Borja Nebot** por su indispensable perspectiva y apoyo.
+Mi sincero agradecimiento a todos los que participaron y contribuyeron al éxito de esta charla, especialmente a **Esther Gutiérrez** por su invitación y organización, a **Borja Nebot** por su indispensable perspectiva y compromiso, y por supuesto, a mis compañeras **Sara Navarro** y **Katherine Onoszko** por estar ahí.
 
 El camino hacia una gestión efectiva de las especies invasoras es largo y lleno de desafíos, pero está claro que la clave está en **la unión de esfuerzos**. Continuaré explorando y compartiendo estas experiencias en mi blog, esperando inspirar y ser inspirada por historias de compromiso y cambio.
 
 <!--EndFragment-->
+
+![](img-20240622-wa0010.jpg)
+
+![]()
