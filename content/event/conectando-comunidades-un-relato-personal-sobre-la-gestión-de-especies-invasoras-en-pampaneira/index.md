@@ -9,8 +9,8 @@ abstract: "En un evento reciente en Pampaneira, comunidad y expertos se
   sobre cómo la ciencia puede fomentar acciones comunitarias y la necesidad de
   colaboración para enfrentar desafíos ambientales complejos. "
 location: Ayuntamiento de Pampaneira, Granada
-date: 2024-06-12T17:00:01.424Z
-date_end: 2024-06-12T19:00:00.000Z
+date: 2024-06-12T19:00:01.424Z
+date_end: 2024-06-12T21:00:00.000Z
 all_day: false
 event: Seminario sobre la Expansión de Flora Invasora
 event_url: https://pampaneira.es/
