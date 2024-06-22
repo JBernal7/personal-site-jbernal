@@ -47,5 +47,3 @@ El camino hacia una gestión efectiva de las especies invasoras es largo y lleno
 <!--EndFragment-->
 
 ![](img-20240622-wa0010.jpg)
-
-![]()
