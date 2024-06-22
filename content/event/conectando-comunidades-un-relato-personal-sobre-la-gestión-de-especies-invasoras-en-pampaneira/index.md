@@ -1,15 +1,13 @@
 ---
 title: "Conectando Comunidades: Un Relato Personal sobre la Gestión de Especies
   Invasoras en Pampaneira"
-abstract: En un evento reciente en Pampaneira, comunidad y expertos se reunieron
-  para discutir sobre el manejo de especies de flora invasora, un problema
-  creciente en la Alpujarra Granadina. Este artículo recojo algunas pinceladas
+abstract: "En un evento reciente en Pampaneira, comunidad y expertos se
+  reunieron para discutir sobre el manejo de especies de flora invasora, un
+  problema creciente en la Alpujarra Granadina. Recojo aquí algunas pinceladas
   de mi experiencia como ponente, destacando la rica interacción entre los
-  conocimientos científicos y las experiencias locales. Reflexiono sobre cómo la
-  ciencia puede fomentar acciones comunitarias y la necesidad de colaboración
-  para enfrentar desafíos ambientales complejos. Agradezco a todos los
-  participantes, especialmente a Esther Gutiérrez y Borja Nebot, por su crucial
-  aporte a este diálogo necesario.
+  conocimientos científicos y las experiencias locales. Reflexiono brevemente
+  sobre cómo la ciencia puede fomentar acciones comunitarias y la necesidad de
+  colaboración para enfrentar desafíos ambientales complejos. "
 location: Ayuntamiento de Pampaneira, Granada
 date: 2024-06-12T17:00:01.424Z
 date_end: 2024-06-12T19:00:00.000Z
