@@ -20,7 +20,7 @@ links:
     icon_pack: fas
 event: International Conference on Biological Invasions, 13th Edition
 event_url: https://www.neobiota2024.org/
-publishDate: 2024-10-04T07:33:16.191Z
+publishDate: 2024-10-03T07:41:36.584Z
 draft: false
 featured: false
 authors:
