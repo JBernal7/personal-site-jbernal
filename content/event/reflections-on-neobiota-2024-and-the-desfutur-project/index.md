@@ -1,15 +1,16 @@
 ---
 title: Reflections on Neobiota 2024 and the DesFutur Project
-abstract: In September 2024, I presented findings from my PhD research at
-  Neobiota, the 13th International Conference on Biological Invasions, held in
-  Lisbon. My presentation focused on integrating local insights through
-  interviews and a participatory workshop for the management of invasive species
-  in Southeastern Iberian arid ecosystems. This work, conducted within the
-  DesFutur project, highlighted the importance of incorporating stakeholder
-  perspectives to address ecological challenges. Neobiota provided an excellent
-  opportunity to disseminate key results, gain valuable feedback, and expand
-  collaborative networks, reinforcing the impact of this research on invasive
-  species management.
+abstract: >-
+  <!--StartFragment-->
+
+
+  <div style="text-align: justify;">
+
+
+  In September 2024, I presented findings from my PhD research at Neobiota, the 13th International Conference on Biological Invasions, held in Lisbon. My presentation focused on integrating local insights through interviews and a participatory workshop for the management of invasive species in Southeastern Iberian arid ecosystems. This work, conducted within the DesFutur project, highlighted the importance of incorporating stakeholder perspectives to address ecological challenges. Neobiota provided an excellent opportunity to disseminate key results, gain valuable feedback, and expand collaborative networks, reinforcing the impact of this research on invasive species management.
+
+
+  <!--EndFragment-->
 location: Lisbon, Portugal
 date: 2024-09-03T07:30:16.176Z
 date_end: 2024-09-06T16:00:00.000Z
