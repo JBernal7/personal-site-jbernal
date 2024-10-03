@@ -48,3 +48,7 @@ Beyond presenting our findings, Neobiota 2024 provided a unique opportunity to e
 Looking ahead, we remain committed to exploring the socio-ecological dynamics of invasive species in desertification-prone regions, building upon the collaborative networks and knowledge exchange initiated at Neobiota 2024.
 
 Stay tuned for more updates as we continue our work on this critical issue.
+
+
+
+![](img-20240909-wa0001.jpg)
