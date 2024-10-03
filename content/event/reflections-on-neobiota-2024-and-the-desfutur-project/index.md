@@ -34,7 +34,7 @@ tags:
 projects:
   - desfutur
 image:
-  filename: captura-de-pantalla-2024-10-03-100134.png
+  filename: img-20240909-wa0001.jpg
   focal_point: Smart
   preview_only: false
 ---
@@ -62,7 +62,5 @@ Looking ahead, we remain committed to exploring the socio-ecological dynamics of
 Stay tuned for more updates as we continue our work on this critical issue.
 
 <!--EndFragment-->
-
-![](img-20240909-wa0001.jpg)
 
 ![](vice3-mterd-fb-prtr-next_bandera_color.png)
