@@ -25,6 +25,8 @@ draft: false
 featured: false
 authors:
   - admin
+projects:
+  - desfutur
 image:
   filename: featured
   focal_point: Smart
