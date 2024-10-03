@@ -33,10 +33,14 @@ tags:
 projects:
   - desfutur
 image:
-  filename: featured
+  filename: captura-de-pantalla-2024-10-03-100134.png
   focal_point: Smart
   preview_only: false
 ---
+<!--StartFragment-->
+
+<div style="text-align: justify;">
+
 Last month, I had the opportunity to attend Neobiota 2024, a leading international conference focused on biological invasions. This was a fantastic platform to share key findings from my PhD research, conducted within the DesFutur project, which is centered on understanding the spatiotemporal dynamics of desertification in Southeastern Spain.
 
 During the event, I presented our work titled "Incorporating Local Insights Through Interviews and a Participatory Workshop for Invasive Species Management in Southeastern Iberian Arid Ecosystems". This study delves into the perceptions of local stakeholders—land managers, officials, and specialists—on invasive species, derived from semi-structured interviews and a participatory workshop held in Granada. These interactions provided valuable insights into species prioritization and management needs in arid and semi-arid ecosystems, a region where ecological impacts of Invasive Alien Species (IAS) have been underexplored.
@@ -56,7 +60,7 @@ Looking ahead, we remain committed to exploring the socio-ecological dynamics of
 
 Stay tuned for more updates as we continue our work on this critical issue.
 
-
+<!--EndFragment-->
 
 ![](img-20240909-wa0001.jpg)
 
