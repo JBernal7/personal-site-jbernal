@@ -19,6 +19,9 @@ links:
   - url: https://www.neobiota2024.org/
     name: Neobiota 2024
     icon_pack: fas
+  - url: https://www.researchgate.net/publication/384594237_Incorporating_Local_Insights_Through_Interviews_and_a_Participatory_Workshop_for_Invasive_Species_Management_in_Southeastern_Iberian_Arid_Ecosystems
+    name: Abstract
+    icon_pack: fas
 event: International Conference on Biological Invasions, 13th Edition
 event_url: https://www.neobiota2024.org/
 publishDate: 2024-10-03T07:41:36.584Z
