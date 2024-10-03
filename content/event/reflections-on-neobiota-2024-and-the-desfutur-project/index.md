@@ -52,3 +52,5 @@ Stay tuned for more updates as we continue our work on this critical issue.
 
 
 ![](img-20240909-wa0001.jpg)
+
+![](vice3-mterd-fb-prtr-next_bandera_color.png)
