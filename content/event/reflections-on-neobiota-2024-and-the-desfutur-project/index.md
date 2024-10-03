@@ -25,6 +25,11 @@ draft: false
 featured: false
 authors:
   - admin
+tags:
+  - hsm
+  - initiatives
+  - people-and-nature
+  - macroecology
 projects:
   - desfutur
 image:
