@@ -1,7 +1,7 @@
 ---
 title: Materias Primas Fundamentales y Transición Energética
 subtitle: Normativa, Justicia Ambiental y Participación
-date: 2025-06-28T14:24:40.768Z
+date: 2025-06-26T15:51:38.270Z
 draft: false
 featured: false
 authors:
@@ -16,6 +16,11 @@ links:
   - icon_pack: fas
     url: https://ofertaidi.uma.es/estandares-ambientales.php
     name: SEJ174
+  - url: https://www.researchgate.net/publication/392819427_Materias_primas_fundamentales_para_la_cuarta_revolucion_industrial/references
+    name: 2025 Publication
+    icon_pack: fas
+  - url: https://www.researchgate.net/publication/385654066_Actividades_extractivas_y_politicas_publicas_desafios_normativos_y_tecnologicos_del_sector_minero_A_proposito_del_Reglamento_UE_de_materias_primas_fundamentlaes
+    name: 2024 Publication
 image:
   filename: truck-4711976_1280.jpg
   focal_point: Smart
