@@ -53,9 +53,14 @@ También se analizan normas clave como:
 
 Hasta la fecha, he participado en dos publicaciones colectivas coordinadas por la profesora Mª Remedios Zamora Roselló:
 
-1. "Desafíos legislativos en la transición energética del sector minero: entre la regulación ambiental y la sostenibilidad energética", en Materias primas fundamentales para la cuarta revolución industrial (Atelier, 2025).
-   En este capítulo analizo la tensión entre los objetivos estratégicos del Reglamento (UE) 2024/1252, sobre materias primas fundamentales, y el marco legislativo minero vigente en España. Presto especial atención al Reglamento (UE) 2024/1991, sobre la restauración de la naturaleza, como elemento determinante para la evaluación de compatibilidad de proyectos extractivos con los objetivos de restauración ecológica. Se abordan asimismo las posibilidades de reforma normativa y los condicionantes jurídicos para implementar proyectos que respeten los principios de sostenibilidad, participación pública y evaluación rigurosa de impactos.
-2. "Nuevas tecnologías aplicadas a la evaluación ambiental, a la adecuación de los planes de restauración y al seguimiento de los riesgos ambientales en las actividades extractivas", en Actividades extractivas y políticas públicas (Tirant lo Blanch, 2024).
-   Esta aportación explora el potencial normativo y técnico de integrar tecnologías como sensores remotos, IA, SIG y blockchain en la fase de seguimiento de proyectos mineros. Propone un enfoque basado en trazabilidad, integridad de los datos y control distribuido, con referencias al marco legal vigente en evaluación y responsabilidad ambiental.
+1. "Desafíos legislativos en la transición energética del sector minero: entre la regulación ambiental y la sostenibilidad energética", en *Materias primas fundamentales para la cuarta revolución industrial* (Atelier, 2025).
 
-<!--EndFragment-->
+
+En este capítulo analizo la tensión entre los objetivos estratégicos del Reglamento (UE) 2024/1252, sobre materias primas fundamentales, y el marco legislativo minero vigente en España. Presto especial atención al Reglamento (UE) 2024/1991, sobre la restauración de la naturaleza, como elemento determinante para la evaluación de compatibilidad de proyectos extractivos con los objetivos de restauración ecológica. Se abordan asimismo las posibilidades de reforma normativa y los condicionantes jurídicos para implementar proyectos que respeten los principios de sostenibilidad, participación pública y evaluación rigurosa de impactos.
+
+
+
+2. "Nuevas tecnologías aplicadas a la evaluación ambiental, a la adecuación de los planes de restauración y al seguimiento de los riesgos ambientales en las actividades extractivas", en *Actividades extractivas y políticas públicas* (Tirant lo Blanch, 2024).
+
+
+Esta aportación explora el potencial normativo y técnico de integrar tecnologías como sensores remotos, IA, SIG y blockchain en la fase de seguimiento de proyectos mineros. Propone un enfoque basado en trazabilidad, integridad de los datos y control distribuido, con referencias al marco legal vigente en evaluación y responsabilidad ambiental.
