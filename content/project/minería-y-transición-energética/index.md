@@ -6,10 +6,21 @@ draft: false
 featured: false
 authors:
   - admin
+tags:
+  - initiatives
+  - environment&planning
+categories:
+  - initiatives
+  - environment&planning
+links:
+  - icon_pack: fas
+    url: https://ofertaidi.uma.es/estandares-ambientales.php
+    name: SEJ174
 image:
-  filename: featured
+  filename: truck-4711976_1280.jpg
   focal_point: Smart
   preview_only: false
+  caption: Courtesy of Nyamdorj
 ---
 <!--StartFragment-->
 
