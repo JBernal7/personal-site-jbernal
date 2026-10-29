@@ -76,6 +76,21 @@ sections:
     design:
       columns: '1'
 
+  - block: markdown
+    id: visual-break-3
+    design:
+      background:
+        image:
+          filename: jb_catching33.jpg
+          filters:
+            brightness: 0.60
+          size: cover
+          position: center
+          parallax: true
+          text_color_light: true
+      spacing:
+        padding: ["130px", "0", "70px", "0"]
+
   - block: collection
     id: talks
     content:
@@ -92,7 +107,7 @@ sections:
       view: compact
 
   - block: markdown
-    id: visual-break-3
+    id: visual-break-4
     design:
       background:
         image:
