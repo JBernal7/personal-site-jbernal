@@ -1,13 +1,13 @@
 ---
 title: Jessica Bernal
-role: Biologist | Geomatics and Spatial Modelling Specialist
-bio: A Spanish Biologist passionate about geomatics, spatial modeling, and
-  macroecological processes.
+role: Environmental Consultant & PhD Researcher
+bio: Biologist and environmental consultant working across biodiversity, environmental planning, GIS and spatial/ecological modelling, ecosystem services, and environmental governance.
 interests:
-  - Environmental Science
-  - Macroecology
-  - Remote-Sensing
-  - GIS
+  - Biological invasions and biodiversity
+  - Environmental planning and assessment
+  - GIS and spatial/ecological modelling
+  - Ecosystem services
+  - Environmental governance and stakeholder engagement
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,14 +40,16 @@ organizations:
     url: https://hub-terra.com
 education:
   courses:
-    - course: MSc in Geomatics, Remote Sensing and Spatial Models Applied to Forest
-        Management
+    - course: PhD in Biosciences and Agri-Food Sciences (ongoing)
+      institution: University of Córdoba
+      year: 2023–present
+    - course: MSc in Geomatics, Remote Sensing and Spatial Models Applied to Forest Management
       institution: University of Córdoba
       year: 2022
-    - course: MSc in Territorial, Urban and Environmental Planning
+    - course: MSc in Territorial Planning, Urban Planning and Environmental Law
       institution: University of Málaga
       year: 2021
-    - course: BSc in Biological Sciences
+    - course: BSc in Biology
       institution: University of Málaga
       year: 2018
 superuser: true
@@ -58,16 +60,9 @@ highlight_name: true
 first_name: Jessica
 email: ""
 ---
-# Welcome to Jessica Bernal's site🦥
 
-<!--StartFragment-->
+I am a **biologist, environmental consultant and PhD researcher** working at the intersection of environmental planning and assessment, biodiversity, spatial analysis and ecological modelling, ecosystem services, and environmental governance.
 
-<div style="text-align: justify;">
+I am **co-founder and co-director of [Hub-Terra](https://www.hub-terra.com/)**, where I lead and carry out applied environmental work for public administrations and international organisations. Recent projects include wetland governance and planning across eight Caribbean countries, ecosystem-services assessment, municipal invasive-alien-species management, and geospatial decision support.
 
-Hi, I'm Jessica Bernal,  a **Spanish biologist** with **geomatics, spatial modelling, and environmental law** expertise. My passion for macroecology and advanced spatial modelling drives my work in environmental consulting services and as a co-leader of **[Hub-Terra](https://www.hub-terra.com/)**, focusing on geospatial solutions for conservation, land management, and natural resource planning. As a PhD candidate at the University of Córdoba, I am also actively engaged in the **[DesFutur](https://jessica-bernal.com/project/desfutur/)** project, delving into the spatiotemporal dynamics of **invasive species** in the context of desertification in the southeast of the Iberian Peninsula.
-
-Explore my research, projects, and publications, and delve into my blog posts and SciComm section for insights on environmental topics in English or Spanish. Connect with me on ResearchGate, LinkedIn, and Github, or reach out for inquiries and collaborations.
-
-Thank you for stopping by! 
-
-<!--EndFragment-->
+At the **University of Córdoba**, my research focuses on biological invasions and spatial dynamics in Mediterranean ecosystems. I combine field and geospatial data, ecological modelling, institutional analysis, and stakeholder knowledge to translate environmental evidence into practical support for management and planning.
