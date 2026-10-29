@@ -20,6 +20,10 @@ links:
     url: https://doi.org/10.5281/zenodo.21983073
     icon_pack: fas
     icon: external-link-alt
+image:
+  filename: featured.jpg
+  focal_point: Smart
+  preview_only: false
 ---
 
 I facilitated the final technical workshop of Hub-Terra's municipal invasive-flora project in **Colmenar (Málaga)**.
