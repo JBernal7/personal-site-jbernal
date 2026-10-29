@@ -1,315 +1,75 @@
 ---
-# Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
 type: landing
 
 sections:
-
-  - block: v1/about  #v1/about #about.avatar
+  - block: v1/about
     id: about
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      # Override your bio text from `authors/admin/_index.md`?
     design:
       spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
         padding: ["40px", "0", "40px", "0"]
-     
-#  - block: experience
-#    content:
-#      title: Experience
-#      # Date format for experience
-#      #   Refer to https://wowchemy.com/docs/customization/#date-format
-#      date_format: Jan 2006
-#      # Experiences.
-#      #   Add/remove as many `experience` items below as you like.
-#      #   Required fields are `title`, `company`, and `date_start`.
-#      #   Leave `date_end` empty if it's your current employer.
-#      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-#      items:
-#        - title: CEO
-#          company: GenCoin
-#          company_url: ''
-#          company_logo: org-gc
-#          location: California
-#          date_start: '2021-01-01'
-#          date_end: ''
-#          description: |2-
-#              Responsibilities include:
-#
-#              * Analysing
-#              * Modelling
-#              * Deploying
-#        - title: Professor of Semiconductor Physics
-#          company: University X
-#          company_url: ''
-#          company_logo: org-x
-#          location: California
-#          date_start: '2016-01-01'
-#          date_end: '2020-12-31'
-#          description: Taught electronic engineering and researched semiconductor physics.
-#    design:
-#      # Choose how many columns the section has. Valid values: '1' or '2'.
-#      columns: '2'
-#      spacing:
-#       # Customize the section spacing. Order is top, right, bottom, left.
-#       padding: ["40px", "0", "20px", "0"]
-        
-  - block: markdown
-    id: parallax1
-    design:
-      background:
-        image:
-          # Name of image in `assets/media/`.
-          filename: jb_catching33.jpg
-          # Apply image filters?
-          filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.7
-          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-          size: cover
-          # Image focal point. Options include `left`, `center` (default), or `right`.
-          position: center
-          # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: true
-          # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: true 
-          
-
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: People & Nature
-          tag: people-and-nature
-        - name: Environment & Planning
-          tag: environment-planning
-        - name: Initiatives
-          tag: initiatives
-        - name: Macroecology
-          tag: macroecology
-        - name: Habitat Suitability Modeling
-          tag: hsm
-        - name: Other
-          tag: Demo  
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: masonry
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: true
-      
-  - block: markdown
-    id: parallax2
-    design:
-     background:
-       image:
-         # Name of image in `assets/media/`.
-         filename: jb_catching33.jpg
-         # Apply image filters?
-         filters:
-           # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-           brightness: 0.7
-         #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-         size: cover
-         # Image focal point. Options include `left`, `center` (default), or `right`.
-         position: center
-         # Use a fun parallax-like fixed background effect on desktop? true/false
-         parallax: true
-         # Text color (true=light, false=dark, or remove for the dynamic theme color).
-         text_color_light: true
-     spacing:
-         # Customize the section spacing. Order is top, right, bottom, left.
-         padding: ["200px", "0", "100px", "0"]
-        
-  - block: collection
-    id: publications
-    content:
-     title: Publications
-     filters:
-       folders:
-         - publication
-       exclude_featured: false
-    design:
-     columns: '2'
-     view: citation
 
   - block: collection
+    id: work
     content:
-      title: Featured Publications
+      title: Selected Work
+      subtitle: 'Applied environmental consulting, research and decision support'
+      count: 6
       filters:
         folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card      
-   
-
-  - block: markdown
-    id: parallax3
-    design:
-      columns: '1'
-      background:
-        image:
-          # Name of image in `assets/media/`.
-          filename: jb_catching33.jpg
-          # Apply image filters?
-          filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.7
-          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-          size: cover
-          # Image focal point. Options include `left`, `center` (default), or `right`.
-          position: center
-          # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: true
-          # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: true
-
- 
-  - block: collection
-    id: talks
-    content:
-      title: SciComm
-      subtitle: 'Events, talks & more' 
-      count: 3
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-
-
-  - block: markdown
-    id: parallax4
-    design:
-      background:
-        image:
-          # Name of image in `assets/media/`.
-          filename: jb_catching33.jpg
-          # Apply image filters?
-          filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
-          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-          size: cover
-          # Image focal point. Options include `left`, `center` (default), or `right`.
-          position: center
-          # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: true
-          # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: true
-
-  - block: collection
-    id: blog
-    content:
-      title: Recent Posts
-      subtitle: 'Code, news, and reflections from a biologist'
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
+          - work
         exclude_featured: false
         exclude_future: false
         exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # Choose a layout view
-      view: compact
       columns: '2'
- 
-#  - block: markdown
-#    content:
-#      title: Gallery
-#      subtitle: ''
-#      text: |-
-#        {{< gallery album="demo" >}}
-#    design:
-#      columns: '1'
- 
-#  - block: collection
-#    content:
-#      title: Recent Publications
-#      text: |-
-#        {{% callout note %}}
-#        Quickly discover relevant content by [filtering publications](./publication/).
-#        {{% /callout %}}
-#      filters:
-#        folders:
-#          - publication
-#       exclude_featured: true
-#    design:
-#      columns: '2'
-#      view: citation
-  
-  - block: contact
+      view: compact
+
+  - block: markdown
+    id: research
+    content:
+      title: Research & Publications
+      subtitle: 'Selected research outputs'
+      text: |-
+        My research combines biological invasions, spatial ecology, environmental planning and stakeholder-informed management. A selected set of outputs is shown here; my complete and maintained academic record is available on [ORCID](https://orcid.org/0000-0003-2800-7733).
+
+        - **Bernal Borrego, J.; Bracho-Estévanez, C.; González-Moreno, P. (2026).** *Integrating roadside monitoring and agent-based modelling to support invasive plant management in Mediterranean road corridors.* ARPHA Conference Abstracts 9, e202011. [DOI](https://doi.org/10.3897/aca.9.e202011)
+        - **Bernal-Borrego, J.; Navarro-López, S.; González-Moreno, P. (2024).** *Incorporating local insights through interviews and a participatory workshop for invasive species management in southeastern Iberian arid ecosystems.* NEOBIOTA 2024. [DOI](https://doi.org/10.5281/zenodo.13884495)
+        - **Bernal Borrego, J. (2023).** *Outdated regulations and institutional vulnerability: Hydrological risk management in Málaga's municipal planning.* Heliyon 9(8), e18691. [DOI](https://doi.org/10.1016/j.heliyon.2023.e18691)
+        - **Bernal Borrego, J. (2024).** *Nuevas tecnologías aplicadas a la evaluación ambiental, a la adecuación de los planes de restauración y al seguimiento de los riesgos ambientales en las actividades extractivas.* Book chapter. [Dialnet](https://dialnet.unirioja.es/servlet/articulo?codigo=9910886)
+        - **Bernal Borrego, J. (2025).** *Desafíos legislativos en la transición energética del sector minero: Entre la regulación ambiental y la sostenibilidad energética.* Book chapter. [Dialnet](https://dialnet.unirioja.es/servlet/articulo?codigo=10397702)
+    design:
+      columns: '1'
+
+  - block: collection
+    id: talks
+    content:
+      title: Talks & Outreach
+      subtitle: 'Selected conferences, workshops and public engagement'
+      count: 4
+      filters:
+        folders:
+          - event
+      offset: 0
+      order: desc
+    design:
+      columns: '2'
+      view: compact
+
+  - block: markdown
     id: contact
     content:
       title: Contact
-      subtitle:
-      #text: |-
-      text: ''
-      # Contact (add or remove contact options as necessary)
-      email: jessicabernal@uma.es
-      address:
-        street: Blvr. Louis Pasteur 31
-        city: Malaga
-        region: Andalusia
-        postcode: '29010'
-        country: Spain
-        country_code: ES
-      # Automatically link email and phone or display as text?
-      autolink: true
-      coordinates:
-          latitude: 36.72
-          longitude: -4.47
+      subtitle: 'Research collaborations and professional enquiries'
+      text: |-
+        You can find my current professional and academic activity through [LinkedIn](https://www.linkedin.com/in/jessica-bernal-borrego), [ORCID](https://orcid.org/0000-0003-2800-7733), [ResearchGate](https://www.researchgate.net/profile/Jessica-Bernal-Borrego) and [GitHub](https://github.com/JBernal7).
+
+        For environmental consulting and institutional enquiries, visit [Hub-Terra](https://www.hub-terra.com/).
     design:
-     columns: '1'
-      
-  - block: markdown
-    id: parallax1
-    design:
-     background:
-       image:
-         # Name of image in `assets/media/`.
-         filename: jb_catching33.jpg
-         # Apply image filters?
-         filters:
-           # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-           brightness: 0.7
-         #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-         size: cover
-         # Image focal point. Options include `left`, `center` (default), or `right`.
-         position: center
-         # Use a fun parallax-like fixed background effect on desktop? true/false
-         parallax: true
-         # Text color (true=light, false=dark, or remove for the dynamic theme color).
-         text_color_light: true 
+      columns: '1'
 ---
