@@ -20,6 +20,10 @@ links:
     url: https://doi.org/10.3897/aca.9.e202011
     icon_pack: fas
     icon: external-link-alt
+image:
+  filename: featured.jpg
+  focal_point: Smart
+  preview_only: false
 ---
 
 At **NEOBIOTA 2026** in Brussels, I presented first-author doctoral research on the use of roadside monitoring and spatially explicit agent-based modelling to explore long-term management strategies for *Ailanthus altissima* in Mediterranean road corridors.
