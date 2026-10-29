@@ -12,6 +12,21 @@ sections:
       spacing:
         padding: ["40px", "0", "40px", "0"]
 
+  - block: markdown
+    id: visual-break-1
+    design:
+      background:
+        image:
+          filename: jb_catching33.jpg
+          filters:
+            brightness: 0.68
+          size: cover
+          position: center
+          parallax: true
+          text_color_light: true
+      spacing:
+        padding: ["150px", "0", "80px", "0"]
+
   - block: collection
     id: work
     content:
@@ -29,6 +44,21 @@ sections:
     design:
       columns: '2'
       view: compact
+
+  - block: markdown
+    id: visual-break-2
+    design:
+      background:
+        image:
+          filename: jb_catching33.jpg
+          filters:
+            brightness: 0.62
+          size: cover
+          position: center
+          parallax: true
+          text_color_light: true
+      spacing:
+        padding: ["130px", "0", "70px", "0"]
 
   - block: markdown
     id: research
@@ -60,6 +90,21 @@ sections:
     design:
       columns: '2'
       view: compact
+
+  - block: markdown
+    id: visual-break-3
+    design:
+      background:
+        image:
+          filename: jb_catching33.jpg
+          filters:
+            brightness: 0.58
+          size: cover
+          position: center
+          parallax: true
+          text_color_light: true
+      spacing:
+        padding: ["150px", "0", "80px", "0"]
 
   - block: markdown
     id: contact
